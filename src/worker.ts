@@ -33,5 +33,4 @@ export default {
 	async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
 		return new Response(JSON.stringify({ wilaya, postcodes, cities }));
 	},
-	wilaya,
 };
