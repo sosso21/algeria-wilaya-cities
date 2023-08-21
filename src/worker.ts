@@ -1,6 +1,7 @@
 import wilaya from './json/wilaya.json';
-import postcodes from './json/algeria_postcodes.json';
-import cities from './json/algeria_cities.json';
+import postcodes from './json/postal_codes.json';
+import cities from './json/cities.json';
+import districts from './json/districts.json';
 
 /**your first worker.
  *
@@ -31,6 +32,6 @@ export interface Env {
 
 export default {
 	async fetch(request: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
-		return new Response(JSON.stringify({ wilaya, postcodes, cities }));
+		return new Response(JSON.stringify({ wilaya, postcodes, cities, districts }));
 	},
 };
