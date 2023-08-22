@@ -9,20 +9,6 @@
   {
     "lat": 0,
     "lng": 0,
-    "wilaya_code": 49,
-    "wilaya_name": "Timimoun",
-    "wilaya_name_ar": "تيميمون"
-  },
-  {
-    "lat": 0,
-    "lng": 0,
-    "wilaya_code": 50,
-    "wilaya_name": "Bordj Badji Mokhtar",
-    "wilaya_name_ar": "برج باجي مختار"
-  },
-  {
-    "lat": 0,
-    "lng": 0,
     "wilaya_code": 2,
     "wilaya_name": "Chlef",
     "wilaya_name_ar": " الشلف"
@@ -65,23 +51,9 @@
   {
     "lat": 0,
     "lng": 0,
-    "wilaya_code": 51,
-    "wilaya_name": "Ouled Djellal",
-    "wilaya_name_ar": "أولاد جلال"
-  },
-  {
-    "lat": 0,
-    "lng": 0,
     "wilaya_code": 8,
     "wilaya_name": "Béchar",
     "wilaya_name_ar": "بشار"
-  },
-  {
-    "lat": 0,
-    "lng": 0,
-    "wilaya_code": 52,
-    "wilaya_name": "Béni Abbès",
-    "wilaya_name_ar": "بني عباس"
   },
   {
     "lat": 0,
@@ -103,20 +75,6 @@
     "wilaya_code": 11,
     "wilaya_name": "Tamanrasset",
     "wilaya_name_ar": "تمنراست"
-  },
-  {
-    "lat": 0,
-    "lng": 0,
-    "wilaya_code": 54,
-    "wilaya_name": "In Guezzam",
-    "wilaya_name_ar": "عين قزام"
-  },
-  {
-    "lat": 0,
-    "lng": 0,
-    "wilaya_code": 53,
-    "wilaya_name": "In Salah",
-    "wilaya_name_ar": "عين صالح"
   },
   {
     "lat": 0,
@@ -247,13 +205,6 @@
   {
     "lat": 0,
     "lng": 0,
-    "wilaya_code": 55,
-    "wilaya_name": "Touggourt",
-    "wilaya_name_ar": "تقرت"
-  },
-  {
-    "lat": 0,
-    "lng": 0,
     "wilaya_code": 30,
     "wilaya_name": "Ouargla",
     "wilaya_name_ar": "ورقلة"
@@ -271,13 +222,6 @@
     "wilaya_code": 32,
     "wilaya_name": "El Bayadh",
     "wilaya_name_ar": "البيض"
-  },
-  {
-    "lat": 0,
-    "lng": 0,
-    "wilaya_code": 56,
-    "wilaya_name": "Djanet",
-    "wilaya_name_ar": "جانت"
   },
   {
     "lat": 0,
@@ -327,13 +271,6 @@
     "wilaya_code": 39,
     "wilaya_name": "El Oued",
     "wilaya_name_ar": "الوادي"
-  },
-  {
-    "lat": 0,
-    "lng": 0,
-    "wilaya_code": 57,
-    "wilaya_name": "El Meghaier",
-    "wilaya_name_ar": "المغير"
   },
   {
     "lat": 0,
@@ -394,15 +331,78 @@
   {
     "lat": 0,
     "lng": 0,
-    "wilaya_code": 58,
-    "wilaya_name": "El Menia",
-    "wilaya_name_ar": "المنيعة"
+    "wilaya_code": 48,
+    "wilaya_name": "Relizane",
+    "wilaya_name_ar": "غليزان"
   },
   {
     "lat": 0,
     "lng": 0,
-    "wilaya_code": 48,
-    "wilaya_name": "Relizane",
-    "wilaya_name_ar": "غليزان"
+    "wilaya_code": 49,
+    "wilaya_name": "Timimoun",
+    "wilaya_name_ar": "تيميمون"
+  },
+  {
+    "lat": 0,
+    "lng": 0,
+    "wilaya_code": 50,
+    "wilaya_name": "Bordj Badji Mokhtar",
+    "wilaya_name_ar": "برج باجي مختار"
+  },
+  {
+    "lat": 0,
+    "lng": 0,
+    "wilaya_code": 51,
+    "wilaya_name": "Ouled Djellal",
+    "wilaya_name_ar": "أولاد جلال"
+  },
+  {
+    "lat": 0,
+    "lng": 0,
+    "wilaya_code": 52,
+    "wilaya_name": "Béni Abbès",
+    "wilaya_name_ar": "بني عباس"
+  },
+  {
+    "lat": 0,
+    "lng": 0,
+    "wilaya_code": 53,
+    "wilaya_name": "In Salah",
+    "wilaya_name_ar": "عين صالح"
+  },
+  {
+    "lat": 0,
+    "lng": 0,
+    "wilaya_code": 54,
+    "wilaya_name": "In Guezzam",
+    "wilaya_name_ar": "عين قزام"
+  },
+  {
+    "lat": 0,
+    "lng": 0,
+    "wilaya_code": 55,
+    "wilaya_name": "Touggourt",
+    "wilaya_name_ar": "تقرت"
+  },
+  {
+    "lat": 0,
+    "lng": 0,
+    "wilaya_code": 56,
+    "wilaya_name": "Djanet",
+    "wilaya_name_ar": "جانت"
+  },
+  {
+    "lat": 0,
+    "lng": 0,
+    "wilaya_code": 57,
+    "wilaya_name": "El Meghaier",
+    "wilaya_name_ar": "المغير"
+  },
+  {
+    "lat": 0,
+    "lng": 0,
+    "wilaya_code": 58,
+    "wilaya_name": "El Menia",
+    "wilaya_name_ar": "المنيعة"
   }
 ]
