@@ -5,6 +5,7 @@
     "daire_id": 1,
     "daira_name": "Aoulef",
     "daira_name_ar": "أولف",
+    "ok_district": null,
     "wilaya_code": 1,
     "wilaya_name": "Adrar",
     "wilaya_name_ar": "أدرار"
@@ -15,6 +16,7 @@
     "daire_id": 2,
     "daira_name": "Adrar",
     "daira_name_ar": "أدرار",
+    "ok_district": null,
     "wilaya_code": 1,
     "wilaya_name": "Adrar",
     "wilaya_name_ar": "أدرار"
@@ -25,6 +27,7 @@
     "daire_id": 3,
     "daira_name": "Fenoughil",
     "daira_name_ar": "فنوغيل",
+    "ok_district": null,
     "wilaya_code": 1,
     "wilaya_name": "Adrar",
     "wilaya_name_ar": "أدرار"
@@ -35,6 +38,7 @@
     "daire_id": 4,
     "daira_name": "Zaouiat Kounta",
     "daira_name_ar": "زاوية كنتة",
+    "ok_district": null,
     "wilaya_code": 1,
     "wilaya_name": "Adrar",
     "wilaya_name_ar": "أدرار"
@@ -45,6 +49,7 @@
     "daire_id": 5,
     "daira_name": "Reggane",
     "daira_name_ar": "رقان",
+    "ok_district": null,
     "wilaya_code": 1,
     "wilaya_name": "Adrar",
     "wilaya_name_ar": "أدرار"
@@ -55,6 +60,7 @@
     "daire_id": 6,
     "daira_name": "Tsabit",
     "daira_name_ar": "تسابيت",
+    "ok_district": null,
     "wilaya_code": 1,
     "wilaya_name": "Adrar",
     "wilaya_name_ar": "أدرار"
@@ -65,6 +71,7 @@
     "daire_id": 7,
     "daira_name": "Abou El Hassane",
     "daira_name_ar": "أبو الحسن",
+    "ok_district": null,
     "wilaya_code": 2,
     "wilaya_name": "Chlef",
     "wilaya_name_ar": "الشلف"
@@ -75,6 +82,7 @@
     "daire_id": 8,
     "daira_name": "Zeboudja",
     "daira_name_ar": "الزبوجة",
+    "ok_district": null,
     "wilaya_code": 2,
     "wilaya_name": "Chlef",
     "wilaya_name_ar": "الشلف"
@@ -85,6 +93,7 @@
     "daire_id": 9,
     "daira_name": "Ouled Ben Abdelkader",
     "daira_name_ar": "أولاد بن عبد القادر",
+    "ok_district": null,
     "wilaya_code": 2,
     "wilaya_name": "Chlef",
     "wilaya_name_ar": "الشلف"
@@ -95,6 +104,7 @@
     "daire_id": 10,
     "daira_name": "Ain Merane",
     "daira_name_ar": "عين مران",
+    "ok_district": null,
     "wilaya_code": 2,
     "wilaya_name": "Chlef",
     "wilaya_name_ar": "الشلف"
@@ -105,6 +115,7 @@
     "daire_id": 11,
     "daira_name": "Beni Haoua",
     "daira_name_ar": "بني حواء",
+    "ok_district": null,
     "wilaya_code": 2,
     "wilaya_name": "Chlef",
     "wilaya_name_ar": "الشلف"
@@ -115,6 +126,7 @@
     "daire_id": 12,
     "daira_name": "Oued Fodda",
     "daira_name_ar": "وادي الفضة",
+    "ok_district": null,
     "wilaya_code": 2,
     "wilaya_name": "Chlef",
     "wilaya_name_ar": "الشلف"
@@ -125,6 +137,7 @@
     "daire_id": 13,
     "daira_name": "El Marsa",
     "daira_name_ar": "المرسى",
+    "ok_district": null,
     "wilaya_code": 2,
     "wilaya_name": "Chlef",
     "wilaya_name_ar": "الشلف"
@@ -135,6 +148,7 @@
     "daire_id": 14,
     "daira_name": "Chlef",
     "daira_name_ar": "الشلف",
+    "ok_district": null,
     "wilaya_code": 2,
     "wilaya_name": "Chlef",
     "wilaya_name_ar": "الشلف"
@@ -145,6 +159,7 @@
     "daire_id": 15,
     "daira_name": "Tenes",
     "daira_name_ar": "تنس",
+    "ok_district": null,
     "wilaya_code": 2,
     "wilaya_name": "Chlef",
     "wilaya_name_ar": "الشلف"
@@ -155,6 +170,7 @@
     "daire_id": 16,
     "daira_name": "El Karimia",
     "daira_name_ar": "الكريمية",
+    "ok_district": null,
     "wilaya_code": 2,
     "wilaya_name": "Chlef",
     "wilaya_name_ar": "الشلف"
@@ -165,6 +181,7 @@
     "daire_id": 17,
     "daira_name": "Taougrit",
     "daira_name_ar": "تاوقريت",
+    "ok_district": null,
     "wilaya_code": 2,
     "wilaya_name": "Chlef",
     "wilaya_name_ar": "الشلف"
@@ -175,6 +192,7 @@
     "daire_id": 18,
     "daira_name": "Ouled Fares",
     "daira_name_ar": "أولاد فارس",
+    "ok_district": null,
     "wilaya_code": 2,
     "wilaya_name": "Chlef",
     "wilaya_name_ar": "الشلف"
@@ -185,6 +203,7 @@
     "daire_id": 19,
     "daira_name": "Boukadir",
     "daira_name_ar": "بوقادير",
+    "ok_district": null,
     "wilaya_code": 2,
     "wilaya_name": "Chlef",
     "wilaya_name_ar": "الشلف"
@@ -195,6 +214,7 @@
     "daire_id": 20,
     "daira_name": "Gueltat Sidi Saad",
     "daira_name_ar": "قتلة سيدي سعيد",
+    "ok_district": null,
     "wilaya_code": 3,
     "wilaya_name": "Laghouat",
     "wilaya_name_ar": "الأغواط"
@@ -205,6 +225,7 @@
     "daire_id": 21,
     "daira_name": "Brida",
     "daira_name_ar": "بريدة",
+    "ok_district": null,
     "wilaya_code": 3,
     "wilaya_name": "Laghouat",
     "wilaya_name_ar": "الأغواط"
@@ -215,6 +236,7 @@
     "daire_id": 22,
     "daira_name": "Ain Madhi",
     "daira_name_ar": "عين ماضي",
+    "ok_district": null,
     "wilaya_code": 3,
     "wilaya_name": "Laghouat",
     "wilaya_name_ar": "الأغواط"
@@ -225,6 +247,7 @@
     "daire_id": 23,
     "daira_name": "El Ghicha",
     "daira_name_ar": "الغيشة",
+    "ok_district": null,
     "wilaya_code": 3,
     "wilaya_name": "Laghouat",
     "wilaya_name_ar": "الأغواط"
@@ -235,6 +258,7 @@
     "daire_id": 24,
     "daira_name": "Aflou",
     "daira_name_ar": "أفلو",
+    "ok_district": null,
     "wilaya_code": 3,
     "wilaya_name": "Laghouat",
     "wilaya_name_ar": "الأغواط"
@@ -245,6 +269,7 @@
     "daire_id": 25,
     "daira_name": "Oued Morra",
     "daira_name_ar": "وادي مرة",
+    "ok_district": null,
     "wilaya_code": 3,
     "wilaya_name": "Laghouat",
     "wilaya_name_ar": "الأغواط"
@@ -255,6 +280,7 @@
     "daire_id": 26,
     "daira_name": "Laghouat",
     "daira_name_ar": "الأغواط",
+    "ok_district": null,
     "wilaya_code": 3,
     "wilaya_name": "Laghouat",
     "wilaya_name_ar": "الأغواط"
@@ -265,6 +291,7 @@
     "daire_id": 27,
     "daira_name": "Ksar El Hirane",
     "daira_name_ar": "قصر الحيران",
+    "ok_district": null,
     "wilaya_code": 3,
     "wilaya_name": "Laghouat",
     "wilaya_name_ar": "الأغواط"
@@ -275,6 +302,7 @@
     "daire_id": 28,
     "daira_name": "Sidi Makhlouf",
     "daira_name_ar": "سيدي مخلوف",
+    "ok_district": null,
     "wilaya_code": 3,
     "wilaya_name": "Laghouat",
     "wilaya_name_ar": "الأغواط"
@@ -285,6 +313,7 @@
     "daire_id": 29,
     "daira_name": "Hassi R'mel",
     "daira_name_ar": "حاسي الرمل",
+    "ok_district": null,
     "wilaya_code": 3,
     "wilaya_name": "Laghouat",
     "wilaya_name_ar": "الأغواط"
@@ -295,6 +324,7 @@
     "daire_id": 30,
     "daira_name": "F'kirina",
     "daira_name_ar": "فكيرينة",
+    "ok_district": null,
     "wilaya_code": 4,
     "wilaya_name": "Oum El Bouaghi",
     "wilaya_name_ar": "أم البواقي"
@@ -305,6 +335,7 @@
     "daire_id": 31,
     "daira_name": "Ain Fekroun",
     "daira_name_ar": "عين فكرون",
+    "ok_district": null,
     "wilaya_code": 4,
     "wilaya_name": "Oum El Bouaghi",
     "wilaya_name_ar": "أم البواقي"
@@ -315,6 +346,7 @@
     "daire_id": 32,
     "daira_name": "Meskiana",
     "daira_name_ar": "مسكيانة",
+    "ok_district": null,
     "wilaya_code": 4,
     "wilaya_name": "Oum El Bouaghi",
     "wilaya_name_ar": "أم البواقي"
@@ -325,6 +357,7 @@
     "daire_id": 33,
     "daira_name": "Ksar Sbahi",
     "daira_name_ar": "قصر الصباحي",
+    "ok_district": null,
     "wilaya_code": 4,
     "wilaya_name": "Oum El Bouaghi",
     "wilaya_name_ar": "أم البواقي"
@@ -335,6 +368,7 @@
     "daire_id": 34,
     "daira_name": "Souk Naamane",
     "daira_name_ar": "سوق نعمان",
+    "ok_district": null,
     "wilaya_code": 4,
     "wilaya_name": "Oum El Bouaghi",
     "wilaya_name_ar": "أم البواقي"
@@ -345,6 +379,7 @@
     "daire_id": 35,
     "daira_name": "Oum El Bouaghi",
     "daira_name_ar": "أم البواقي",
+    "ok_district": null,
     "wilaya_code": 4,
     "wilaya_name": "Oum El Bouaghi",
     "wilaya_name_ar": "أم البواقي"
@@ -355,6 +390,7 @@
     "daire_id": 36,
     "daira_name": "Ain Babouche",
     "daira_name_ar": "عين ببوش",
+    "ok_district": null,
     "wilaya_code": 4,
     "wilaya_name": "Oum El Bouaghi",
     "wilaya_name_ar": "أم البواقي"
@@ -365,6 +401,7 @@
     "daire_id": 37,
     "daira_name": "Ain Beida",
     "daira_name_ar": "عين البيضاء",
+    "ok_district": null,
     "wilaya_code": 4,
     "wilaya_name": "Oum El Bouaghi",
     "wilaya_name_ar": "أم البواقي"
@@ -375,6 +412,7 @@
     "daire_id": 38,
     "daira_name": "Ain M'lila",
     "daira_name_ar": "عين مليلة",
+    "ok_district": null,
     "wilaya_code": 4,
     "wilaya_name": "Oum El Bouaghi",
     "wilaya_name_ar": "أم البواقي"
@@ -385,6 +423,7 @@
     "daire_id": 39,
     "daira_name": "Sigus",
     "daira_name_ar": "سيقوس",
+    "ok_district": null,
     "wilaya_code": 4,
     "wilaya_name": "Oum El Bouaghi",
     "wilaya_name_ar": "أم البواقي"
@@ -395,6 +434,7 @@
     "daire_id": 40,
     "daira_name": "Dhalaa",
     "daira_name_ar": "الضلعة",
+    "ok_district": null,
     "wilaya_code": 4,
     "wilaya_name": "Oum El Bouaghi",
     "wilaya_name_ar": "أم البواقي"
@@ -405,6 +445,7 @@
     "daire_id": 41,
     "daira_name": "Ain Kercha",
     "daira_name_ar": "عين كرشة",
+    "ok_district": null,
     "wilaya_code": 4,
     "wilaya_name": "Oum El Bouaghi",
     "wilaya_name_ar": "أم البواقي"
@@ -415,6 +456,7 @@
     "daire_id": 42,
     "daira_name": "Ain Touta",
     "daira_name_ar": "عين التوتة",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -425,6 +467,7 @@
     "daire_id": 43,
     "daira_name": "Ras El Aioun",
     "daira_name_ar": "رأس العيون",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -435,6 +478,7 @@
     "daire_id": 44,
     "daira_name": "Timgad",
     "daira_name_ar": "تيمقاد",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -445,6 +489,7 @@
     "daire_id": 45,
     "daira_name": "Ouled Si Slimane",
     "daira_name_ar": "أولاد سي سليمان",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -455,6 +500,7 @@
     "daire_id": 46,
     "daira_name": "Theniet El Abed",
     "daira_name_ar": "ثنية العابد",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -465,6 +511,7 @@
     "daire_id": 47,
     "daira_name": "Batna",
     "daira_name_ar": "باتنة",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -475,6 +522,7 @@
     "daire_id": 48,
     "daira_name": "Merouana",
     "daira_name_ar": "مروانة",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -485,6 +533,7 @@
     "daire_id": 49,
     "daira_name": "Seriana",
     "daira_name_ar": "سريانة",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -495,6 +544,7 @@
     "daire_id": 50,
     "daira_name": "Menaa",
     "daira_name_ar": "منعة",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -505,6 +555,7 @@
     "daire_id": 51,
     "daira_name": "El Madher",
     "daira_name_ar": "المعذر",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -515,6 +566,7 @@
     "daire_id": 52,
     "daira_name": "Tazoult",
     "daira_name_ar": "تازولت",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -525,6 +577,7 @@
     "daire_id": 53,
     "daira_name": "N'gaous",
     "daira_name_ar": "نقاوس",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -535,6 +588,7 @@
     "daire_id": 54,
     "daira_name": "Arris",
     "daira_name_ar": "أريس",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -545,6 +599,7 @@
     "daire_id": 55,
     "daira_name": "Ain Djasser",
     "daira_name_ar": "عين جاسر",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -555,6 +610,7 @@
     "daire_id": 56,
     "daira_name": "Seggana",
     "daira_name_ar": "سقانة",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -565,6 +621,7 @@
     "daire_id": 57,
     "daira_name": "Ichemoul",
     "daira_name_ar": "إشمول",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -575,6 +632,7 @@
     "daire_id": 58,
     "daira_name": "Bouzina",
     "daira_name_ar": "بوزينة",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -585,6 +643,7 @@
     "daire_id": 59,
     "daira_name": "Chemora",
     "daira_name_ar": "الشمرة",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -595,6 +654,7 @@
     "daire_id": 60,
     "daira_name": "Barika",
     "daira_name_ar": "بريكة",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -605,6 +665,7 @@
     "daire_id": 61,
     "daira_name": "Djezzar",
     "daira_name_ar": "الجزار",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -615,6 +676,7 @@
     "daire_id": 62,
     "daira_name": "Tkout",
     "daira_name_ar": "تكوت",
+    "ok_district": null,
     "wilaya_code": 5,
     "wilaya_name": "Batna",
     "wilaya_name_ar": "باتنة"
@@ -625,6 +687,7 @@
     "daire_id": 63,
     "daira_name": "Sidi Aich",
     "daira_name_ar": "سيدي عيش",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -635,6 +698,7 @@
     "daire_id": 64,
     "daira_name": "Barbacha",
     "daira_name_ar": "برباشة",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -645,6 +709,7 @@
     "daire_id": 65,
     "daira_name": "El Kseur",
     "daira_name_ar": "القصر",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -655,6 +720,7 @@
     "daire_id": 66,
     "daira_name": "Kherrata",
     "daira_name_ar": "خراطة",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -665,6 +731,7 @@
     "daire_id": 67,
     "daira_name": "Bejaia",
     "daira_name_ar": "بجاية",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -675,6 +742,7 @@
     "daire_id": 68,
     "daira_name": "Beni Maouche",
     "daira_name_ar": "بني معوش",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -685,6 +753,7 @@
     "daire_id": 69,
     "daira_name": "Amizour",
     "daira_name_ar": "أميزور",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -695,6 +764,7 @@
     "daire_id": 70,
     "daira_name": "Timezrit",
     "daira_name_ar": "تيمزريت",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -705,6 +775,7 @@
     "daire_id": 71,
     "daira_name": "Souk El Tenine",
     "daira_name_ar": "سوق الإثنين",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -715,6 +786,7 @@
     "daire_id": 72,
     "daira_name": "Tichy",
     "daira_name_ar": "تيشي",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -725,6 +797,7 @@
     "daire_id": 73,
     "daira_name": "Ighil Ali",
     "daira_name_ar": "إغيل علي",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -735,6 +808,7 @@
     "daire_id": 74,
     "daira_name": "Darguina",
     "daira_name_ar": "درقينة",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -745,6 +819,7 @@
     "daire_id": 75,
     "daira_name": "Aokas",
     "daira_name_ar": "أوقاس",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -755,6 +830,7 @@
     "daire_id": 76,
     "daira_name": "Adekar",
     "daira_name_ar": "أدكار",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -765,6 +841,7 @@
     "daire_id": 77,
     "daira_name": "Akbou",
     "daira_name_ar": "أقبو",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -775,6 +852,7 @@
     "daire_id": 78,
     "daira_name": "Seddouk",
     "daira_name_ar": "صدوق",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -785,6 +863,7 @@
     "daire_id": 79,
     "daira_name": "Tazmalt",
     "daira_name_ar": "تازملت",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -795,6 +874,7 @@
     "daire_id": 80,
     "daira_name": "Chemini",
     "daira_name_ar": "شميني",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -805,6 +885,7 @@
     "daire_id": 81,
     "daira_name": "Ifri Ouzellaguene",
     "daira_name_ar": "إفري أوزلاقن",
+    "ok_district": null,
     "wilaya_code": 6,
     "wilaya_name": "Béjaïa",
     "wilaya_name_ar": "بجاية"
@@ -815,6 +896,7 @@
     "daire_id": 82,
     "daira_name": "Zeribet El Oued",
     "daira_name_ar": "زريبة الوادي",
+    "ok_district": null,
     "wilaya_code": 7,
     "wilaya_name": "Biskra",
     "wilaya_name_ar": "بسكرة"
@@ -825,6 +907,7 @@
     "daire_id": 83,
     "daira_name": "Tolga",
     "daira_name_ar": "طولقة",
+    "ok_district": null,
     "wilaya_code": 7,
     "wilaya_name": "Biskra",
     "wilaya_name_ar": "بسكرة"
@@ -835,6 +918,7 @@
     "daire_id": 84,
     "daira_name": "Ourlal",
     "daira_name_ar": "أورلال",
+    "ok_district": null,
     "wilaya_code": 7,
     "wilaya_name": "Biskra",
     "wilaya_name_ar": "بسكرة"
@@ -845,6 +929,7 @@
     "daire_id": 85,
     "daira_name": "Djemorah",
     "daira_name_ar": "جمورة",
+    "ok_district": null,
     "wilaya_code": 7,
     "wilaya_name": "Biskra",
     "wilaya_name_ar": "بسكرة"
@@ -855,6 +940,7 @@
     "daire_id": 86,
     "daira_name": "El Outaya",
     "daira_name_ar": "الوطاية",
+    "ok_district": null,
     "wilaya_code": 7,
     "wilaya_name": "Biskra",
     "wilaya_name_ar": "بسكرة"
@@ -865,6 +951,7 @@
     "daire_id": 87,
     "daira_name": "El Kantara",
     "daira_name_ar": "القنطرة",
+    "ok_district": null,
     "wilaya_code": 7,
     "wilaya_name": "Biskra",
     "wilaya_name_ar": "بسكرة"
@@ -875,6 +962,7 @@
     "daire_id": 88,
     "daira_name": "Biskra",
     "daira_name_ar": "بسكرة",
+    "ok_district": null,
     "wilaya_code": 7,
     "wilaya_name": "Biskra",
     "wilaya_name_ar": "بسكرة"
@@ -885,6 +973,7 @@
     "daire_id": 89,
     "daira_name": "Foughala",
     "daira_name_ar": "فوغالة",
+    "ok_district": null,
     "wilaya_code": 7,
     "wilaya_name": "Biskra",
     "wilaya_name_ar": "بسكرة"
@@ -895,6 +984,7 @@
     "daire_id": 90,
     "daira_name": "Sidi Okba",
     "daira_name_ar": "سيدي عقبة",
+    "ok_district": null,
     "wilaya_code": 7,
     "wilaya_name": "Biskra",
     "wilaya_name_ar": "بسكرة"
@@ -905,6 +995,7 @@
     "daire_id": 91,
     "daira_name": "Mechouneche",
     "daira_name_ar": "مشونش",
+    "ok_district": null,
     "wilaya_code": 7,
     "wilaya_name": "Biskra",
     "wilaya_name_ar": "بسكرة"
@@ -915,6 +1006,7 @@
     "daire_id": 92,
     "daira_name": "Bechar",
     "daira_name_ar": "بشار",
+    "ok_district": null,
     "wilaya_code": 8,
     "wilaya_name": "Béchar",
     "wilaya_name_ar": "بشار"
@@ -925,6 +1017,7 @@
     "daire_id": 93,
     "daira_name": "Lahmar",
     "daira_name_ar": "لحمر",
+    "ok_district": null,
     "wilaya_code": 8,
     "wilaya_name": "Béchar",
     "wilaya_name_ar": "بشار"
@@ -935,6 +1028,7 @@
     "daire_id": 94,
     "daira_name": "Kenadsa",
     "daira_name_ar": "القنادسة",
+    "ok_district": null,
     "wilaya_code": 8,
     "wilaya_name": "Béchar",
     "wilaya_name_ar": "بشار"
@@ -945,6 +1039,7 @@
     "daire_id": 95,
     "daira_name": "Taghit",
     "daira_name_ar": "تاغيت",
+    "ok_district": null,
     "wilaya_code": 8,
     "wilaya_name": "Béchar",
     "wilaya_name_ar": "بشار"
@@ -955,6 +1050,7 @@
     "daire_id": 96,
     "daira_name": "Abadla",
     "daira_name_ar": "العبادلة",
+    "ok_district": null,
     "wilaya_code": 8,
     "wilaya_name": "Béchar",
     "wilaya_name_ar": "بشار"
@@ -965,6 +1061,7 @@
     "daire_id": 97,
     "daira_name": "Beni Ounif",
     "daira_name_ar": "بني ونيف",
+    "ok_district": null,
     "wilaya_code": 8,
     "wilaya_name": "Béchar",
     "wilaya_name_ar": "بشار"
@@ -975,6 +1072,7 @@
     "daire_id": 98,
     "daira_name": "Tabelbala",
     "daira_name_ar": "تبلبالة",
+    "ok_district": null,
     "wilaya_code": 8,
     "wilaya_name": "Béchar",
     "wilaya_name_ar": "بشار"
@@ -985,6 +1083,7 @@
     "daire_id": 99,
     "daira_name": "Ouled Yaich",
     "daira_name_ar": "أولاد يعيش",
+    "ok_district": null,
     "wilaya_code": 9,
     "wilaya_name": "Blida",
     "wilaya_name_ar": "البليدة"
@@ -995,6 +1094,7 @@
     "daire_id": 100,
     "daira_name": "Bougara",
     "daira_name_ar": "بوقرة",
+    "ok_district": null,
     "wilaya_code": 9,
     "wilaya_name": "Blida",
     "wilaya_name_ar": "البليدة"
@@ -1005,6 +1105,7 @@
     "daire_id": 101,
     "daira_name": "Mouzaia",
     "daira_name_ar": "موزاية",
+    "ok_district": null,
     "wilaya_code": 9,
     "wilaya_name": "Blida",
     "wilaya_name_ar": "البليدة"
@@ -1015,6 +1116,7 @@
     "daire_id": 102,
     "daira_name": "Larbaa",
     "daira_name_ar": "الأربعاء",
+    "ok_district": null,
     "wilaya_code": 9,
     "wilaya_name": "Blida",
     "wilaya_name_ar": "البليدة"
@@ -1025,6 +1127,7 @@
     "daire_id": 103,
     "daira_name": "Boufarik",
     "daira_name_ar": "بوفاريك",
+    "ok_district": null,
     "wilaya_code": 9,
     "wilaya_name": "Blida",
     "wilaya_name_ar": "البليدة"
@@ -1035,6 +1138,7 @@
     "daire_id": 104,
     "daira_name": "Meftah",
     "daira_name_ar": "مفتاح",
+    "ok_district": null,
     "wilaya_code": 9,
     "wilaya_name": "Blida",
     "wilaya_name_ar": "البليدة"
@@ -1045,6 +1149,7 @@
     "daire_id": 105,
     "daira_name": "El Affroun",
     "daira_name_ar": "العفرون",
+    "ok_district": null,
     "wilaya_code": 9,
     "wilaya_name": "Blida",
     "wilaya_name_ar": "البليدة"
@@ -1055,6 +1160,7 @@
     "daire_id": 106,
     "daira_name": "Oued El Alleug",
     "daira_name_ar": "وادي العلايق",
+    "ok_district": null,
     "wilaya_code": 9,
     "wilaya_name": "Blida",
     "wilaya_name_ar": "البليدة"
@@ -1065,6 +1171,7 @@
     "daire_id": 107,
     "daira_name": "Bouinan",
     "daira_name_ar": "بوعينان",
+    "ok_district": null,
     "wilaya_code": 9,
     "wilaya_name": "Blida",
     "wilaya_name_ar": "البليدة"
@@ -1075,6 +1182,7 @@
     "daire_id": 108,
     "daira_name": "Blida",
     "daira_name_ar": "البليدة",
+    "ok_district": null,
     "wilaya_code": 9,
     "wilaya_name": "Blida",
     "wilaya_name_ar": "البليدة"
@@ -1085,6 +1193,7 @@
     "daire_id": 109,
     "daira_name": "Ain Bessem",
     "daira_name_ar": "عين بسام",
+    "ok_district": null,
     "wilaya_code": 10,
     "wilaya_name": "Bouira",
     "wilaya_name_ar": "البويرة"
@@ -1095,6 +1204,7 @@
     "daire_id": 110,
     "daira_name": "Bordj Okhriss",
     "daira_name_ar": "برج أوخريص",
+    "ok_district": null,
     "wilaya_code": 10,
     "wilaya_name": "Bouira",
     "wilaya_name_ar": "البويرة"
@@ -1105,6 +1215,7 @@
     "daire_id": 111,
     "daira_name": "Sour El Ghozlane",
     "daira_name_ar": "سور الغزلان",
+    "ok_district": null,
     "wilaya_code": 10,
     "wilaya_name": "Bouira",
     "wilaya_name_ar": "البويرة"
@@ -1115,6 +1226,7 @@
     "daire_id": 112,
     "daira_name": "Bechloul",
     "daira_name_ar": "بشلول",
+    "ok_district": null,
     "wilaya_code": 10,
     "wilaya_name": "Bouira",
     "wilaya_name_ar": "البويرة"
@@ -1125,6 +1237,7 @@
     "daire_id": 113,
     "daira_name": "M'chedallah",
     "daira_name_ar": "مشد الله",
+    "ok_district": null,
     "wilaya_code": 10,
     "wilaya_name": "Bouira",
     "wilaya_name_ar": "البويرة"
@@ -1135,6 +1248,7 @@
     "daire_id": 114,
     "daira_name": "Bir Ghbalou",
     "daira_name_ar": "بئر غبالو",
+    "ok_district": null,
     "wilaya_code": 10,
     "wilaya_name": "Bouira",
     "wilaya_name_ar": "البويرة"
@@ -1145,6 +1259,7 @@
     "daire_id": 115,
     "daira_name": "Bouira",
     "daira_name_ar": "البويرة",
+    "ok_district": null,
     "wilaya_code": 10,
     "wilaya_name": "Bouira",
     "wilaya_name_ar": "البويرة"
@@ -1155,6 +1270,7 @@
     "daire_id": 116,
     "daira_name": "Souk El Khemis",
     "daira_name_ar": "سوق الخميس",
+    "ok_district": null,
     "wilaya_code": 10,
     "wilaya_name": "Bouira",
     "wilaya_name_ar": "البويرة"
@@ -1165,6 +1281,7 @@
     "daire_id": 117,
     "daira_name": "Kadiria",
     "daira_name_ar": "القادرية",
+    "ok_district": null,
     "wilaya_code": 10,
     "wilaya_name": "Bouira",
     "wilaya_name_ar": "البويرة"
@@ -1175,6 +1292,7 @@
     "daire_id": 118,
     "daira_name": "El Hachimia",
     "daira_name_ar": "الهاشمية",
+    "ok_district": null,
     "wilaya_code": 10,
     "wilaya_name": "Bouira",
     "wilaya_name_ar": "البويرة"
@@ -1185,6 +1303,7 @@
     "daire_id": 119,
     "daira_name": "Haizer",
     "daira_name_ar": "الحيزر",
+    "ok_district": null,
     "wilaya_code": 10,
     "wilaya_name": "Bouira",
     "wilaya_name_ar": "البويرة"
@@ -1195,6 +1314,7 @@
     "daire_id": 120,
     "daira_name": "Lakhdaria",
     "daira_name_ar": "الأخضرية",
+    "ok_district": null,
     "wilaya_code": 10,
     "wilaya_name": "Bouira",
     "wilaya_name_ar": "البويرة"
@@ -1205,6 +1325,7 @@
     "daire_id": 121,
     "daira_name": "Tazrouk",
     "daira_name_ar": "تاظروك",
+    "ok_district": null,
     "wilaya_code": 11,
     "wilaya_name": "Tamanrasset",
     "wilaya_name_ar": "تمنراست"
@@ -1215,6 +1336,7 @@
     "daire_id": 122,
     "daira_name": "Silet",
     "daira_name_ar": "سيلت",
+    "ok_district": null,
     "wilaya_code": 11,
     "wilaya_name": "Tamanrasset",
     "wilaya_name_ar": "تمنراست"
@@ -1225,6 +1347,7 @@
     "daire_id": 123,
     "daira_name": "Tamanrasset",
     "daira_name_ar": "تمنراست",
+    "ok_district": null,
     "wilaya_code": 11,
     "wilaya_name": "Tamanrasset",
     "wilaya_name_ar": "تمنراست"
@@ -1235,6 +1358,7 @@
     "daire_id": 124,
     "daira_name": "El Malabiod",
     "daira_name_ar": "الماء الابيض",
+    "ok_district": null,
     "wilaya_code": 12,
     "wilaya_name": "Tébessa",
     "wilaya_name_ar": "تبسة"
@@ -1245,6 +1369,7 @@
     "daire_id": 125,
     "daira_name": "El Aouinet",
     "daira_name_ar": "العوينات",
+    "ok_district": null,
     "wilaya_code": 12,
     "wilaya_name": "Tébessa",
     "wilaya_name_ar": "تبسة"
@@ -1255,6 +1380,7 @@
     "daire_id": 126,
     "daira_name": "Negrine",
     "daira_name_ar": "نقرين",
+    "ok_district": null,
     "wilaya_code": 12,
     "wilaya_name": "Tébessa",
     "wilaya_name_ar": "تبسة"
@@ -1265,6 +1391,7 @@
     "daire_id": 127,
     "daira_name": "Bir Mokadem",
     "daira_name_ar": "بئر مقدم",
+    "ok_district": null,
     "wilaya_code": 12,
     "wilaya_name": "Tébessa",
     "wilaya_name_ar": "تبسة"
@@ -1275,6 +1402,7 @@
     "daire_id": 128,
     "daira_name": "Morsott",
     "daira_name_ar": "مرسط",
+    "ok_district": null,
     "wilaya_code": 12,
     "wilaya_name": "Tébessa",
     "wilaya_name_ar": "تبسة"
@@ -1285,6 +1413,7 @@
     "daire_id": 129,
     "daira_name": "Oum Ali",
     "daira_name_ar": "أم علي",
+    "ok_district": null,
     "wilaya_code": 12,
     "wilaya_name": "Tébessa",
     "wilaya_name_ar": "تبسة"
@@ -1295,6 +1424,7 @@
     "daire_id": 130,
     "daira_name": "El Kouif",
     "daira_name_ar": "الكويف",
+    "ok_district": null,
     "wilaya_code": 12,
     "wilaya_name": "Tébessa",
     "wilaya_name_ar": "تبسة"
@@ -1305,6 +1435,7 @@
     "daire_id": 131,
     "daira_name": "Ouenza",
     "daira_name_ar": "الونزة",
+    "ok_district": null,
     "wilaya_code": 12,
     "wilaya_name": "Tébessa",
     "wilaya_name_ar": "تبسة"
@@ -1315,6 +1446,7 @@
     "daire_id": 132,
     "daira_name": "El Ogla",
     "daira_name_ar": "العقلة",
+    "ok_district": null,
     "wilaya_code": 12,
     "wilaya_name": "Tébessa",
     "wilaya_name_ar": "تبسة"
@@ -1325,6 +1457,7 @@
     "daire_id": 133,
     "daira_name": "Cheria",
     "daira_name_ar": "الشريعة",
+    "ok_district": null,
     "wilaya_code": 12,
     "wilaya_name": "Tébessa",
     "wilaya_name_ar": "تبسة"
@@ -1335,6 +1468,7 @@
     "daire_id": 134,
     "daira_name": "Bir El Ater",
     "daira_name_ar": "بئر العاتر",
+    "ok_district": null,
     "wilaya_code": 12,
     "wilaya_name": "Tébessa",
     "wilaya_name_ar": "تبسة"
@@ -1345,6 +1479,7 @@
     "daire_id": 135,
     "daira_name": "Tebessa",
     "daira_name_ar": "تبسة",
+    "ok_district": null,
     "wilaya_code": 12,
     "wilaya_name": "Tébessa",
     "wilaya_name_ar": "تبسة"
@@ -1355,6 +1490,7 @@
     "daire_id": 136,
     "daira_name": "Bab El Assa",
     "daira_name_ar": "باب العسة",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1365,6 +1501,7 @@
     "daire_id": 137,
     "daira_name": "Mansourah",
     "daira_name_ar": "منصورة",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1375,6 +1512,7 @@
     "daire_id": 138,
     "daira_name": "Chetouane",
     "daira_name_ar": "شتوان",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1385,6 +1523,7 @@
     "daire_id": 139,
     "daira_name": "Honnaine",
     "daira_name_ar": "هنين",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1395,6 +1534,7 @@
     "daire_id": 140,
     "daira_name": "Sidi Djillali",
     "daira_name_ar": "سيدي الجيلالي",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1405,6 +1545,7 @@
     "daire_id": 141,
     "daira_name": "Nedroma",
     "daira_name_ar": "ندرومة",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1415,6 +1556,7 @@
     "daire_id": 142,
     "daira_name": "Marsa Ben Mehdi",
     "daira_name_ar": "مرسى بن مهيدي",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1425,6 +1567,7 @@
     "daire_id": 143,
     "daira_name": "Beni Boussaid",
     "daira_name_ar": "بني بوسعيد",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1435,6 +1578,7 @@
     "daire_id": 144,
     "daira_name": "Sebdou",
     "daira_name_ar": "سبدو",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1445,6 +1589,7 @@
     "daire_id": 145,
     "daira_name": "Sabra",
     "daira_name_ar": "صبرة",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1455,6 +1600,7 @@
     "daire_id": 146,
     "daira_name": "Maghnia",
     "daira_name_ar": "مغنية",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1465,6 +1611,7 @@
     "daire_id": 147,
     "daira_name": "Hennaya",
     "daira_name_ar": "الحناية",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1475,6 +1622,7 @@
     "daire_id": 148,
     "daira_name": "Bensekrane",
     "daira_name_ar": "بن سكران",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1485,6 +1633,7 @@
     "daire_id": 149,
     "daira_name": "Fellaoucene",
     "daira_name_ar": "فلاوسن",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1495,6 +1644,7 @@
     "daire_id": 150,
     "daira_name": "Tlemcen",
     "daira_name_ar": "تلمسان",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1505,6 +1655,7 @@
     "daire_id": 151,
     "daira_name": "Ain Tellout",
     "daira_name_ar": "عين تالوت",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1515,6 +1666,7 @@
     "daire_id": 152,
     "daira_name": "Remchi",
     "daira_name_ar": "الرمشي",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1525,6 +1677,7 @@
     "daire_id": 153,
     "daira_name": "Ghazaouet",
     "daira_name_ar": "الغزوات",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1535,6 +1688,7 @@
     "daire_id": 154,
     "daira_name": "Ouled Mimoun",
     "daira_name_ar": "أولاد ميمون",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1545,6 +1699,7 @@
     "daire_id": 155,
     "daira_name": "Beni Snous",
     "daira_name_ar": "بني سنوس",
+    "ok_district": null,
     "wilaya_code": 13,
     "wilaya_name": "Tlemcen",
     "wilaya_name_ar": "تلمسان"
@@ -1555,6 +1710,7 @@
     "daire_id": 156,
     "daira_name": "Mahdia",
     "daira_name_ar": "مهدية",
+    "ok_district": null,
     "wilaya_code": 14,
     "wilaya_name": "Tiaret",
     "wilaya_name_ar": "تيارت"
@@ -1565,6 +1721,7 @@
     "daire_id": 157,
     "daira_name": "Sougueur",
     "daira_name_ar": "السوقر",
+    "ok_district": null,
     "wilaya_code": 14,
     "wilaya_name": "Tiaret",
     "wilaya_name_ar": "تيارت"
@@ -1575,6 +1732,7 @@
     "daire_id": 158,
     "daira_name": "Meghila",
     "daira_name_ar": "مغيلة",
+    "ok_district": null,
     "wilaya_code": 14,
     "wilaya_name": "Tiaret",
     "wilaya_name_ar": "تيارت"
@@ -1585,6 +1743,7 @@
     "daire_id": 159,
     "daira_name": "Frenda",
     "daira_name_ar": "فرندة",
+    "ok_district": null,
     "wilaya_code": 14,
     "wilaya_name": "Tiaret",
     "wilaya_name_ar": "تيارت"
@@ -1595,6 +1754,7 @@
     "daire_id": 160,
     "daira_name": "Ain Kermes",
     "daira_name_ar": "عين كرمس",
+    "ok_district": null,
     "wilaya_code": 14,
     "wilaya_name": "Tiaret",
     "wilaya_name_ar": "تيارت"
@@ -1605,6 +1765,7 @@
     "daire_id": 161,
     "daira_name": "Ksar Chellala",
     "daira_name_ar": "قصر الشلالة",
+    "ok_district": null,
     "wilaya_code": 14,
     "wilaya_name": "Tiaret",
     "wilaya_name_ar": "تيارت"
@@ -1615,6 +1776,7 @@
     "daire_id": 162,
     "daira_name": "Rahouia",
     "daira_name_ar": "رحوية",
+    "ok_district": null,
     "wilaya_code": 14,
     "wilaya_name": "Tiaret",
     "wilaya_name_ar": "تيارت"
@@ -1625,6 +1787,7 @@
     "daire_id": 163,
     "daira_name": "Oued Lili",
     "daira_name_ar": "وادي ليلي",
+    "ok_district": null,
     "wilaya_code": 14,
     "wilaya_name": "Tiaret",
     "wilaya_name_ar": "تيارت"
@@ -1635,6 +1798,7 @@
     "daire_id": 164,
     "daira_name": "Mechraa Sfa",
     "daira_name_ar": "مشرع الصفا",
+    "ok_district": null,
     "wilaya_code": 14,
     "wilaya_name": "Tiaret",
     "wilaya_name_ar": "تيارت"
@@ -1645,6 +1809,7 @@
     "daire_id": 165,
     "daira_name": "Hamadia",
     "daira_name_ar": "حمادية",
+    "ok_district": null,
     "wilaya_code": 14,
     "wilaya_name": "Tiaret",
     "wilaya_name_ar": "تيارت"
@@ -1655,6 +1820,7 @@
     "daire_id": 166,
     "daira_name": "Tiaret",
     "daira_name_ar": "تيارت",
+    "ok_district": null,
     "wilaya_code": 14,
     "wilaya_name": "Tiaret",
     "wilaya_name_ar": "تيارت"
@@ -1665,6 +1831,7 @@
     "daire_id": 167,
     "daira_name": "Medroussa",
     "daira_name_ar": "مدروسة",
+    "ok_district": null,
     "wilaya_code": 14,
     "wilaya_name": "Tiaret",
     "wilaya_name_ar": "تيارت"
@@ -1675,6 +1842,7 @@
     "daire_id": 168,
     "daira_name": "Ain Deheb",
     "daira_name_ar": "عين الذهب",
+    "ok_district": null,
     "wilaya_code": 14,
     "wilaya_name": "Tiaret",
     "wilaya_name_ar": "تيارت"
@@ -1685,6 +1853,7 @@
     "daire_id": 169,
     "daira_name": "Dahmouni",
     "daira_name_ar": "دحموني",
+    "ok_district": null,
     "wilaya_code": 14,
     "wilaya_name": "Tiaret",
     "wilaya_name_ar": "تيارت"
@@ -1695,6 +1864,7 @@
     "daire_id": 170,
     "daira_name": "Tigzirt",
     "daira_name_ar": "تيقزيرت",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1705,6 +1875,7 @@
     "daire_id": 171,
     "daira_name": "Bouzeguene",
     "daira_name_ar": "بوزقن",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1715,6 +1886,7 @@
     "daire_id": 172,
     "daira_name": "Beni Douala",
     "daira_name_ar": "بني دوالة",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1725,6 +1897,7 @@
     "daire_id": 173,
     "daira_name": "Ouadhias",
     "daira_name_ar": "واضية",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1735,6 +1908,7 @@
     "daire_id": 174,
     "daira_name": "Azeffoun",
     "daira_name_ar": "أزفون",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1745,6 +1919,7 @@
     "daire_id": 175,
     "daira_name": "Boghni",
     "daira_name_ar": "بوغني",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1755,6 +1930,7 @@
     "daire_id": 176,
     "daira_name": "Draa Ben Khedda",
     "daira_name_ar": "ذراع بن خدة",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1765,6 +1941,7 @@
     "daire_id": 177,
     "daira_name": "Ouacif",
     "daira_name_ar": "واسيف",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1775,6 +1952,7 @@
     "daire_id": 178,
     "daira_name": "Mekla",
     "daira_name_ar": "مقلع",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1785,6 +1963,7 @@
     "daire_id": 179,
     "daira_name": "Benni Yenni",
     "daira_name_ar": "بني يني",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1795,6 +1974,7 @@
     "daire_id": 180,
     "daira_name": "Tizi Ouzou",
     "daira_name_ar": "تيزي وزو",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1805,6 +1985,7 @@
     "daire_id": 181,
     "daira_name": "Ain El Hammam",
     "daira_name_ar": "عين الحمام",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1815,6 +1996,7 @@
     "daire_id": 182,
     "daira_name": "Makouda",
     "daira_name_ar": "ماكودة",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1825,6 +2007,7 @@
     "daire_id": 183,
     "daira_name": "Draa El Mizan",
     "daira_name_ar": "ذراع الميزان",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1835,6 +2018,7 @@
     "daire_id": 184,
     "daira_name": "Tizi-Ghenif",
     "daira_name_ar": "تيزي غنيف",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1845,6 +2029,7 @@
     "daire_id": 185,
     "daira_name": "Iferhounene",
     "daira_name_ar": "إفرحونان",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1855,6 +2040,7 @@
     "daire_id": 186,
     "daira_name": "Azazga",
     "daira_name_ar": "عزازقة",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1865,6 +2051,7 @@
     "daire_id": 187,
     "daira_name": "Larbaa Nath Iraten",
     "daira_name_ar": "الأربعاء ناث إيراثن",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1875,6 +2062,7 @@
     "daire_id": 188,
     "daira_name": "Tizi Rached",
     "daira_name_ar": "تيزي راشد",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1885,6 +2073,7 @@
     "daire_id": 189,
     "daira_name": "Ouaguenoun",
     "daira_name_ar": "واقنون",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1895,6 +2084,7 @@
     "daire_id": 190,
     "daira_name": "Maatkas",
     "daira_name_ar": "معاتقة",
+    "ok_district": null,
     "wilaya_code": 15,
     "wilaya_name": "Tizi Ouzou",
     "wilaya_name_ar": "تيزي وزو"
@@ -1905,6 +2095,7 @@
     "daire_id": 191,
     "daira_name": "Hussein Dey",
     "daira_name_ar": "حسين داي",
+    "ok_district": null,
     "wilaya_code": 16,
     "wilaya_name": "Alger",
     "wilaya_name_ar": "الجزائر"
@@ -1915,6 +2106,7 @@
     "daire_id": 192,
     "daira_name": "Baraki",
     "daira_name_ar": "براقي",
+    "ok_district": null,
     "wilaya_code": 16,
     "wilaya_name": "Alger",
     "wilaya_name_ar": "الجزائر"
@@ -1925,6 +2117,7 @@
     "daire_id": 193,
     "daira_name": "Dar El Beida",
     "daira_name_ar": "الدار البيضاء",
+    "ok_district": null,
     "wilaya_code": 16,
     "wilaya_name": "Alger",
     "wilaya_name_ar": "الجزائر"
@@ -1935,6 +2128,7 @@
     "daire_id": 194,
     "daira_name": "Birtouta",
     "daira_name_ar": "بئر توتة",
+    "ok_district": null,
     "wilaya_code": 16,
     "wilaya_name": "Alger",
     "wilaya_name_ar": "الجزائر"
@@ -1945,6 +2139,7 @@
     "daire_id": 195,
     "daira_name": "Rouiba",
     "daira_name_ar": "الرويبة",
+    "ok_district": null,
     "wilaya_code": 16,
     "wilaya_name": "Alger",
     "wilaya_name_ar": "الجزائر"
@@ -1955,6 +2150,7 @@
     "daire_id": 196,
     "daira_name": "Zeralda",
     "daira_name_ar": "زرالدة",
+    "ok_district": null,
     "wilaya_code": 16,
     "wilaya_name": "Alger",
     "wilaya_name_ar": "الجزائر"
@@ -1965,6 +2161,7 @@
     "daire_id": 197,
     "daira_name": "Draria",
     "daira_name_ar": "الدرارية",
+    "ok_district": null,
     "wilaya_code": 16,
     "wilaya_name": "Alger",
     "wilaya_name_ar": "الجزائر"
@@ -1975,6 +2172,7 @@
     "daire_id": 198,
     "daira_name": "Cheraga",
     "daira_name_ar": "الشراقة",
+    "ok_district": null,
     "wilaya_code": 16,
     "wilaya_name": "Alger",
     "wilaya_name_ar": "الجزائر"
@@ -1985,6 +2183,7 @@
     "daire_id": 199,
     "daira_name": "Sidi M'hamed",
     "daira_name_ar": "سيدي امحمد",
+    "ok_district": null,
     "wilaya_code": 16,
     "wilaya_name": "Alger",
     "wilaya_name_ar": "الجزائر"
@@ -1995,6 +2194,7 @@
     "daire_id": 200,
     "daira_name": "Bir Mourad Rais",
     "daira_name_ar": "بئر مراد رايس",
+    "ok_district": null,
     "wilaya_code": 16,
     "wilaya_name": "Alger",
     "wilaya_name_ar": "الجزائر"
@@ -2005,6 +2205,7 @@
     "daire_id": 201,
     "daira_name": "Bab El Oued",
     "daira_name_ar": "باب الوادي",
+    "ok_district": null,
     "wilaya_code": 16,
     "wilaya_name": "Alger",
     "wilaya_name_ar": "الجزائر"
@@ -2015,6 +2216,7 @@
     "daire_id": 202,
     "daira_name": "Bouzareah",
     "daira_name_ar": "بوزريعة",
+    "ok_district": null,
     "wilaya_code": 16,
     "wilaya_name": "Alger",
     "wilaya_name_ar": "الجزائر"
@@ -2025,6 +2227,7 @@
     "daire_id": 203,
     "daira_name": "El Harrach",
     "daira_name_ar": "الحراش",
+    "ok_district": null,
     "wilaya_code": 16,
     "wilaya_name": "Alger",
     "wilaya_name_ar": "الجزائر"
@@ -2035,6 +2238,7 @@
     "daire_id": 204,
     "daira_name": "Hassi Bahbah",
     "daira_name_ar": "حاسي بحبح",
+    "ok_district": null,
     "wilaya_code": 17,
     "wilaya_name": "Djelfa",
     "wilaya_name_ar": "الجلفة"
@@ -2045,6 +2249,7 @@
     "daire_id": 205,
     "daira_name": "Ain El Ibel",
     "daira_name_ar": "عين الإبل",
+    "ok_district": null,
     "wilaya_code": 17,
     "wilaya_name": "Djelfa",
     "wilaya_name_ar": "الجلفة"
@@ -2055,6 +2260,7 @@
     "daire_id": 206,
     "daira_name": "Charef",
     "daira_name_ar": "الشارف",
+    "ok_district": null,
     "wilaya_code": 17,
     "wilaya_name": "Djelfa",
     "wilaya_name_ar": "الجلفة"
@@ -2065,6 +2271,7 @@
     "daire_id": 207,
     "daira_name": "Dar Chioukh",
     "daira_name_ar": "دار الشيوخ",
+    "ok_district": null,
     "wilaya_code": 17,
     "wilaya_name": "Djelfa",
     "wilaya_name_ar": "الجلفة"
@@ -2075,6 +2282,7 @@
     "daire_id": 208,
     "daira_name": "Had Sahary",
     "daira_name_ar": "حد الصحاري",
+    "ok_district": null,
     "wilaya_code": 17,
     "wilaya_name": "Djelfa",
     "wilaya_name_ar": "الجلفة"
@@ -2085,6 +2293,7 @@
     "daire_id": 209,
     "daira_name": "Sidi Laadjel",
     "daira_name_ar": "سيدي لعجال",
+    "ok_district": null,
     "wilaya_code": 17,
     "wilaya_name": "Djelfa",
     "wilaya_name_ar": "الجلفة"
@@ -2095,6 +2304,7 @@
     "daire_id": 210,
     "daira_name": "Messaad",
     "daira_name_ar": "مسعد",
+    "ok_district": null,
     "wilaya_code": 17,
     "wilaya_name": "Djelfa",
     "wilaya_name_ar": "الجلفة"
@@ -2105,6 +2315,7 @@
     "daire_id": 211,
     "daira_name": "El Idrissia",
     "daira_name_ar": "الادريسية",
+    "ok_district": null,
     "wilaya_code": 17,
     "wilaya_name": "Djelfa",
     "wilaya_name_ar": "الجلفة"
@@ -2115,6 +2326,7 @@
     "daire_id": 212,
     "daira_name": "Djelfa",
     "daira_name_ar": "الجلفة",
+    "ok_district": null,
     "wilaya_code": 17,
     "wilaya_name": "Djelfa",
     "wilaya_name_ar": "الجلفة"
@@ -2125,6 +2337,7 @@
     "daire_id": 213,
     "daira_name": "Birine",
     "daira_name_ar": "بيرين",
+    "ok_district": null,
     "wilaya_code": 17,
     "wilaya_name": "Djelfa",
     "wilaya_name_ar": "الجلفة"
@@ -2135,6 +2348,7 @@
     "daire_id": 214,
     "daira_name": "Faidh El Botma",
     "daira_name_ar": "فيض البطمة",
+    "ok_district": null,
     "wilaya_code": 17,
     "wilaya_name": "Djelfa",
     "wilaya_name_ar": "الجلفة"
@@ -2145,6 +2359,7 @@
     "daire_id": 215,
     "daira_name": "Ain Oussera",
     "daira_name_ar": "عين وسارة",
+    "ok_district": null,
     "wilaya_code": 17,
     "wilaya_name": "Djelfa",
     "wilaya_name_ar": "الجلفة"
@@ -2155,6 +2370,7 @@
     "daire_id": 216,
     "daira_name": "Jijel",
     "daira_name_ar": "جيجل",
+    "ok_district": null,
     "wilaya_code": 18,
     "wilaya_name": "Jijel",
     "wilaya_name_ar": "جيجل"
@@ -2165,6 +2381,7 @@
     "daire_id": 217,
     "daira_name": "El Aouana",
     "daira_name_ar": "العوانة",
+    "ok_district": null,
     "wilaya_code": 18,
     "wilaya_name": "Jijel",
     "wilaya_name_ar": "جيجل"
@@ -2175,6 +2392,7 @@
     "daire_id": 218,
     "daira_name": "Ziamah Mansouriah",
     "daira_name_ar": "زيامة منصورية",
+    "ok_district": null,
     "wilaya_code": 18,
     "wilaya_name": "Jijel",
     "wilaya_name_ar": "جيجل"
@@ -2185,6 +2403,7 @@
     "daire_id": 219,
     "daira_name": "Taher",
     "daira_name_ar": "الطاهير",
+    "ok_district": null,
     "wilaya_code": 18,
     "wilaya_name": "Jijel",
     "wilaya_name_ar": "جيجل"
@@ -2195,6 +2414,7 @@
     "daire_id": 220,
     "daira_name": "Chekfa",
     "daira_name_ar": "الشقفة",
+    "ok_district": null,
     "wilaya_code": 18,
     "wilaya_name": "Jijel",
     "wilaya_name_ar": "جيجل"
@@ -2205,6 +2425,7 @@
     "daire_id": 221,
     "daira_name": "El Milia",
     "daira_name_ar": "الميلية",
+    "ok_district": null,
     "wilaya_code": 18,
     "wilaya_name": "Jijel",
     "wilaya_name_ar": "جيجل"
@@ -2215,6 +2436,7 @@
     "daire_id": 222,
     "daira_name": "Sidi Marouf",
     "daira_name_ar": "سيدي معروف",
+    "ok_district": null,
     "wilaya_code": 18,
     "wilaya_name": "Jijel",
     "wilaya_name_ar": "جيجل"
@@ -2225,6 +2447,7 @@
     "daire_id": 223,
     "daira_name": "Settara",
     "daira_name_ar": "السطارة",
+    "ok_district": null,
     "wilaya_code": 18,
     "wilaya_name": "Jijel",
     "wilaya_name_ar": "جيجل"
@@ -2235,6 +2458,7 @@
     "daire_id": 224,
     "daira_name": "El Ancer",
     "daira_name_ar": "العنصر",
+    "ok_district": null,
     "wilaya_code": 18,
     "wilaya_name": "Jijel",
     "wilaya_name_ar": "جيجل"
@@ -2245,6 +2469,7 @@
     "daire_id": 225,
     "daira_name": "Djimla",
     "daira_name_ar": "جيملة",
+    "ok_district": null,
     "wilaya_code": 18,
     "wilaya_name": "Jijel",
     "wilaya_name_ar": "جيجل"
@@ -2255,6 +2480,7 @@
     "daire_id": 226,
     "daira_name": "Texenna",
     "daira_name_ar": "تاكسنة",
+    "ok_district": null,
     "wilaya_code": 18,
     "wilaya_name": "Jijel",
     "wilaya_name_ar": "جيجل"
@@ -2265,6 +2491,7 @@
     "daire_id": 227,
     "daira_name": "Salah Bey",
     "daira_name_ar": "صالح باي",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2275,6 +2502,7 @@
     "daire_id": 228,
     "daira_name": "Amoucha",
     "daira_name_ar": "عموشة",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2285,6 +2513,7 @@
     "daire_id": 229,
     "daira_name": "Ain Arnat",
     "daira_name_ar": "عين أرنات",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2295,6 +2524,7 @@
     "daire_id": 230,
     "daira_name": "Ain Oulmene",
     "daira_name_ar": "عين ولمان",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2305,6 +2535,7 @@
     "daire_id": 231,
     "daira_name": "Bouandas",
     "daira_name_ar": "بوعنداس",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2315,6 +2546,7 @@
     "daire_id": 232,
     "daira_name": "Hammam Sokhna",
     "daira_name_ar": "حمام السخنة",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2325,6 +2557,7 @@
     "daire_id": 233,
     "daira_name": "Ain Azel",
     "daira_name_ar": "عين أزال",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2335,6 +2568,7 @@
     "daire_id": 234,
     "daira_name": "Guenzet",
     "daira_name_ar": "قنزات",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2345,6 +2579,7 @@
     "daire_id": 235,
     "daira_name": "Bougaa",
     "daira_name_ar": "بوقاعة",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2355,6 +2590,7 @@
     "daire_id": 236,
     "daira_name": "Hammam Guergour",
     "daira_name_ar": "حمام قرقور",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2365,6 +2601,7 @@
     "daire_id": 237,
     "daira_name": "Setif",
     "daira_name_ar": "سطيف",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2375,6 +2612,7 @@
     "daire_id": 238,
     "daira_name": "Ain El Kebira",
     "daira_name_ar": "عين الكبيرة",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2385,6 +2623,7 @@
     "daire_id": 239,
     "daira_name": "Beni Aziz",
     "daira_name_ar": "بني عزيز",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2395,6 +2634,7 @@
     "daire_id": 240,
     "daira_name": "Bir El Arch",
     "daira_name_ar": "بئر العرش",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2405,6 +2645,7 @@
     "daire_id": 241,
     "daira_name": "Maoklane",
     "daira_name_ar": "ماوكلان",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2415,6 +2656,7 @@
     "daire_id": 242,
     "daira_name": "Babor",
     "daira_name_ar": "بابور",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2425,6 +2667,7 @@
     "daire_id": 243,
     "daira_name": "Guidjel",
     "daira_name_ar": "قجال",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2435,6 +2678,7 @@
     "daire_id": 244,
     "daira_name": "El Eulma",
     "daira_name_ar": "العلمة",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2445,6 +2689,7 @@
     "daire_id": 245,
     "daira_name": "Djemila",
     "daira_name_ar": "جميلة",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2455,6 +2700,7 @@
     "daire_id": 246,
     "daira_name": "Beni Ourtilane",
     "daira_name_ar": "بني ورتيلان",
+    "ok_district": null,
     "wilaya_code": 19,
     "wilaya_name": "Sétif",
     "wilaya_name_ar": "سطيف"
@@ -2465,6 +2711,7 @@
     "daire_id": 247,
     "daira_name": "Saida",
     "daira_name_ar": "سعيدة",
+    "ok_district": null,
     "wilaya_code": 20,
     "wilaya_name": "Saïda",
     "wilaya_name_ar": "سعيدة"
@@ -2475,6 +2722,7 @@
     "daire_id": 248,
     "daira_name": "Ouled Brahim",
     "daira_name_ar": "أولاد ابراهيم",
+    "ok_district": null,
     "wilaya_code": 20,
     "wilaya_name": "Saïda",
     "wilaya_name_ar": "سعيدة"
@@ -2485,6 +2733,7 @@
     "daire_id": 249,
     "daira_name": "El Hassasna",
     "daira_name_ar": "الحساسنة",
+    "ok_district": null,
     "wilaya_code": 20,
     "wilaya_name": "Saïda",
     "wilaya_name_ar": "سعيدة"
@@ -2495,6 +2744,7 @@
     "daire_id": 250,
     "daira_name": "Sidi Boubekeur",
     "daira_name_ar": "سيدي بوبكر",
+    "ok_district": null,
     "wilaya_code": 20,
     "wilaya_name": "Saïda",
     "wilaya_name_ar": "سعيدة"
@@ -2505,6 +2755,7 @@
     "daire_id": 251,
     "daira_name": "Youb",
     "daira_name_ar": "يوب",
+    "ok_district": null,
     "wilaya_code": 20,
     "wilaya_name": "Saïda",
     "wilaya_name_ar": "سعيدة"
@@ -2515,6 +2766,7 @@
     "daire_id": 252,
     "daira_name": "Ain El Hadjar",
     "daira_name_ar": "عين الحجر",
+    "ok_district": null,
     "wilaya_code": 20,
     "wilaya_name": "Saïda",
     "wilaya_name_ar": "سعيدة"
@@ -2525,6 +2777,7 @@
     "daire_id": 253,
     "daira_name": "Sidi Mezghiche",
     "daira_name_ar": "سيدي مزغيش",
+    "ok_district": null,
     "wilaya_code": 21,
     "wilaya_name": "Skikda",
     "wilaya_name_ar": "سكيكدة"
@@ -2535,6 +2788,7 @@
     "daire_id": 254,
     "daira_name": "El Harrouch",
     "daira_name_ar": "الحروش",
+    "ok_district": null,
     "wilaya_code": 21,
     "wilaya_name": "Skikda",
     "wilaya_name_ar": "سكيكدة"
@@ -2545,6 +2799,7 @@
     "daire_id": 255,
     "daira_name": "El Hadaiek",
     "daira_name_ar": "الحدائق",
+    "ok_district": null,
     "wilaya_code": 21,
     "wilaya_name": "Skikda",
     "wilaya_name_ar": "سكيكدة"
@@ -2555,6 +2810,7 @@
     "daire_id": 256,
     "daira_name": "Ramdane Djamel",
     "daira_name_ar": "رمضان جمال",
+    "ok_district": null,
     "wilaya_code": 21,
     "wilaya_name": "Skikda",
     "wilaya_name_ar": "سكيكدة"
@@ -2565,6 +2821,7 @@
     "daire_id": 257,
     "daira_name": "Tamalous",
     "daira_name_ar": "تمالوس",
+    "ok_district": null,
     "wilaya_code": 21,
     "wilaya_name": "Skikda",
     "wilaya_name_ar": "سكيكدة"
@@ -2575,6 +2832,7 @@
     "daire_id": 258,
     "daira_name": "Ain Kechra",
     "daira_name_ar": "عين قشرة",
+    "ok_district": null,
     "wilaya_code": 21,
     "wilaya_name": "Skikda",
     "wilaya_name_ar": "سكيكدة"
@@ -2585,6 +2843,7 @@
     "daire_id": 259,
     "daira_name": "Oum Toub",
     "daira_name_ar": "أم الطوب",
+    "ok_district": null,
     "wilaya_code": 21,
     "wilaya_name": "Skikda",
     "wilaya_name_ar": "سكيكدة"
@@ -2595,6 +2854,7 @@
     "daire_id": 260,
     "daira_name": "Azzaba",
     "daira_name_ar": "عزابة",
+    "ok_district": null,
     "wilaya_code": 21,
     "wilaya_name": "Skikda",
     "wilaya_name_ar": "سكيكدة"
@@ -2605,6 +2865,7 @@
     "daire_id": 261,
     "daira_name": "Zitouna",
     "daira_name_ar": "الزيتونة",
+    "ok_district": null,
     "wilaya_code": 21,
     "wilaya_name": "Skikda",
     "wilaya_name_ar": "سكيكدة"
@@ -2615,6 +2876,7 @@
     "daire_id": 262,
     "daira_name": "Ouled Attia",
     "daira_name_ar": "أولاد عطية",
+    "ok_district": null,
     "wilaya_code": 21,
     "wilaya_name": "Skikda",
     "wilaya_name_ar": "سكيكدة"
@@ -2625,6 +2887,7 @@
     "daire_id": 263,
     "daira_name": "Collo",
     "daira_name_ar": "القل",
+    "ok_district": null,
     "wilaya_code": 21,
     "wilaya_name": "Skikda",
     "wilaya_name_ar": "سكيكدة"
@@ -2635,6 +2898,7 @@
     "daire_id": 264,
     "daira_name": "Ben Azzouz",
     "daira_name_ar": "بن عزوز",
+    "ok_district": null,
     "wilaya_code": 21,
     "wilaya_name": "Skikda",
     "wilaya_name_ar": "سكيكدة"
@@ -2645,6 +2909,7 @@
     "daire_id": 265,
     "daira_name": "Skikda",
     "daira_name_ar": "سكيكدة",
+    "ok_district": null,
     "wilaya_code": 21,
     "wilaya_name": "Skikda",
     "wilaya_name_ar": "سكيكدة"
@@ -2655,6 +2920,7 @@
     "daire_id": 266,
     "daira_name": "Sidi Ali Ben Youb",
     "daira_name_ar": "سيدي علي بن يوب",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2665,6 +2931,7 @@
     "daire_id": 267,
     "daira_name": "Moulay Slissen",
     "daira_name_ar": "مولاي سليسن",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2675,6 +2942,7 @@
     "daire_id": 268,
     "daira_name": "Tenira",
     "daira_name_ar": "تنيرة",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2685,6 +2953,7 @@
     "daire_id": 269,
     "daira_name": "Merine",
     "daira_name_ar": "مرين",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2695,6 +2964,7 @@
     "daire_id": 270,
     "daira_name": "Sidi Lahcene",
     "daira_name_ar": "سيدي لحسن",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2705,6 +2975,7 @@
     "daire_id": 271,
     "daira_name": "Ain El Berd",
     "daira_name_ar": "عين البرد",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2715,6 +2986,7 @@
     "daire_id": 272,
     "daira_name": "Ben Badis",
     "daira_name_ar": "بن باديس",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2725,6 +2997,7 @@
     "daire_id": 273,
     "daira_name": "Sfisef",
     "daira_name_ar": "سفيزف",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2735,6 +3008,7 @@
     "daire_id": 274,
     "daira_name": "Marhoum",
     "daira_name_ar": "مرحوم",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2745,6 +3019,7 @@
     "daire_id": 275,
     "daira_name": "Ras El Ma",
     "daira_name_ar": "راس الماء",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2755,6 +3030,7 @@
     "daire_id": 276,
     "daira_name": "Sidi Bel Abbes",
     "daira_name_ar": "سيدي بلعباس",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2765,6 +3041,7 @@
     "daire_id": 277,
     "daira_name": "Tessala",
     "daira_name_ar": "تسالة",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2775,6 +3052,7 @@
     "daire_id": 278,
     "daira_name": "Mostefa  Ben Brahim",
     "daira_name_ar": "مصطفى بن ابراهيم",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2785,6 +3063,7 @@
     "daire_id": 279,
     "daira_name": "Telagh",
     "daira_name_ar": "تلاغ",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2795,6 +3074,7 @@
     "daire_id": 280,
     "daira_name": "Sidi Ali Boussidi",
     "daira_name_ar": "سيدي علي بوسيدي",
+    "ok_district": null,
     "wilaya_code": 22,
     "wilaya_name": "Sidi Bel Abbès",
     "wilaya_name_ar": "سيدي بلعباس"
@@ -2805,6 +3085,7 @@
     "daire_id": 281,
     "daira_name": "Annaba",
     "daira_name_ar": "عنابة",
+    "ok_district": null,
     "wilaya_code": 23,
     "wilaya_name": "Annaba",
     "wilaya_name_ar": "عنابة"
@@ -2815,6 +3096,7 @@
     "daire_id": 282,
     "daira_name": "Berrahal",
     "daira_name_ar": "برحال",
+    "ok_district": null,
     "wilaya_code": 23,
     "wilaya_name": "Annaba",
     "wilaya_name_ar": "عنابة"
@@ -2825,6 +3107,7 @@
     "daire_id": 283,
     "daira_name": "El Hadjar",
     "daira_name_ar": "الحجار",
+    "ok_district": null,
     "wilaya_code": 23,
     "wilaya_name": "Annaba",
     "wilaya_name_ar": "عنابة"
@@ -2835,6 +3118,7 @@
     "daire_id": 284,
     "daira_name": "El Bouni",
     "daira_name_ar": "البوني",
+    "ok_district": null,
     "wilaya_code": 23,
     "wilaya_name": "Annaba",
     "wilaya_name_ar": "عنابة"
@@ -2845,6 +3129,7 @@
     "daire_id": 285,
     "daira_name": "Ain El Berda",
     "daira_name_ar": "عين الباردة",
+    "ok_district": null,
     "wilaya_code": 23,
     "wilaya_name": "Annaba",
     "wilaya_name_ar": "عنابة"
@@ -2855,6 +3140,7 @@
     "daire_id": 286,
     "daira_name": "Chetaibi",
     "daira_name_ar": "شطايبي",
+    "ok_district": null,
     "wilaya_code": 23,
     "wilaya_name": "Annaba",
     "wilaya_name_ar": "عنابة"
@@ -2865,6 +3151,7 @@
     "daire_id": 287,
     "daira_name": "Guelaat Bousbaa",
     "daira_name_ar": "قلعة بوصبع",
+    "ok_district": null,
     "wilaya_code": 24,
     "wilaya_name": "Guelma",
     "wilaya_name_ar": "قالمة"
@@ -2875,6 +3162,7 @@
     "daire_id": 288,
     "daira_name": "Hammam Debagh",
     "daira_name_ar": "حمام دباغ",
+    "ok_district": null,
     "wilaya_code": 24,
     "wilaya_name": "Guelma",
     "wilaya_name_ar": "قالمة"
@@ -2885,6 +3173,7 @@
     "daire_id": 289,
     "daira_name": "Hammam N'bails",
     "daira_name_ar": "حمام النبايل",
+    "ok_district": null,
     "wilaya_code": 24,
     "wilaya_name": "Guelma",
     "wilaya_name_ar": "قالمة"
@@ -2895,6 +3184,7 @@
     "daire_id": 290,
     "daira_name": "Guelma",
     "daira_name_ar": "قالمة",
+    "ok_district": null,
     "wilaya_code": 24,
     "wilaya_name": "Guelma",
     "wilaya_name_ar": "قالمة"
@@ -2905,6 +3195,7 @@
     "daire_id": 291,
     "daira_name": "Bouchegouf",
     "daira_name_ar": "بوشقوف",
+    "ok_district": null,
     "wilaya_code": 24,
     "wilaya_name": "Guelma",
     "wilaya_name_ar": "قالمة"
@@ -2915,6 +3206,7 @@
     "daire_id": 292,
     "daira_name": "Heliopolis",
     "daira_name_ar": "هيليوبوليس",
+    "ok_district": null,
     "wilaya_code": 24,
     "wilaya_name": "Guelma",
     "wilaya_name_ar": "قالمة"
@@ -2925,6 +3217,7 @@
     "daire_id": 293,
     "daira_name": "Ain Hessainia",
     "daira_name_ar": "عين حساينية",
+    "ok_district": null,
     "wilaya_code": 24,
     "wilaya_name": "Guelma",
     "wilaya_name_ar": "قالمة"
@@ -2935,6 +3228,7 @@
     "daire_id": 294,
     "daira_name": "Oued Zenati",
     "daira_name_ar": "وادي الزناتي",
+    "ok_district": null,
     "wilaya_code": 24,
     "wilaya_name": "Guelma",
     "wilaya_name_ar": "قالمة"
@@ -2945,6 +3239,7 @@
     "daire_id": 295,
     "daira_name": "Ain Makhlouf",
     "daira_name_ar": "عين مخلوف",
+    "ok_district": null,
     "wilaya_code": 24,
     "wilaya_name": "Guelma",
     "wilaya_name_ar": "قالمة"
@@ -2955,6 +3250,7 @@
     "daire_id": 296,
     "daira_name": "Khezaras",
     "daira_name_ar": "خزارة",
+    "ok_district": null,
     "wilaya_code": 24,
     "wilaya_name": "Guelma",
     "wilaya_name_ar": "قالمة"
@@ -2965,6 +3261,7 @@
     "daire_id": 297,
     "daira_name": "Hamma Bouziane",
     "daira_name_ar": "حامة بوزيان",
+    "ok_district": null,
     "wilaya_code": 25,
     "wilaya_name": "Constantine",
     "wilaya_name_ar": "قسنطينة"
@@ -2975,6 +3272,7 @@
     "daire_id": 298,
     "daira_name": "Zighoud Youcef",
     "daira_name_ar": "زيغود يوسف",
+    "ok_district": null,
     "wilaya_code": 25,
     "wilaya_name": "Constantine",
     "wilaya_name_ar": "قسنطينة"
@@ -2985,6 +3283,7 @@
     "daire_id": 299,
     "daira_name": "El Khroub",
     "daira_name_ar": "الخروب",
+    "ok_district": null,
     "wilaya_code": 25,
     "wilaya_name": "Constantine",
     "wilaya_name_ar": "قسنطينة"
@@ -2995,6 +3294,7 @@
     "daire_id": 300,
     "daira_name": "Ain Abid",
     "daira_name_ar": "عين عبيد",
+    "ok_district": null,
     "wilaya_code": 25,
     "wilaya_name": "Constantine",
     "wilaya_name_ar": "قسنطينة"
@@ -3005,6 +3305,7 @@
     "daire_id": 301,
     "daira_name": "Ibn Ziad",
     "daira_name_ar": "ابن زياد",
+    "ok_district": null,
     "wilaya_code": 25,
     "wilaya_name": "Constantine",
     "wilaya_name_ar": "قسنطينة"
@@ -3015,6 +3316,7 @@
     "daire_id": 302,
     "daira_name": "Constantine",
     "daira_name_ar": "قسنطينة",
+    "ok_district": null,
     "wilaya_code": 25,
     "wilaya_name": "Constantine",
     "wilaya_name_ar": "قسنطينة"
@@ -3025,6 +3327,7 @@
     "daire_id": 303,
     "daira_name": "Ouled Antar",
     "daira_name_ar": "أولاد عنتر",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3035,6 +3338,7 @@
     "daire_id": 304,
     "daira_name": "Souaghi",
     "daira_name_ar": "السواقي",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3045,6 +3349,7 @@
     "daire_id": 305,
     "daira_name": "Ksar El Boukhari",
     "daira_name_ar": "قصر البخاري",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3055,6 +3360,7 @@
     "daire_id": 306,
     "daira_name": "El Azizia",
     "daira_name_ar": "العزيزية",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3065,6 +3371,7 @@
     "daire_id": 307,
     "daira_name": "Chahbounia",
     "daira_name_ar": "الشهبونية",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3075,6 +3382,7 @@
     "daire_id": 308,
     "daira_name": "Ouamri",
     "daira_name_ar": "عوامري",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3085,6 +3393,7 @@
     "daire_id": 309,
     "daira_name": "Beni Slimane",
     "daira_name_ar": "بني سليمان",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3095,6 +3404,7 @@
     "daire_id": 310,
     "daira_name": "Si Mahdjoub",
     "daira_name_ar": "سي المحجوب",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3105,6 +3415,7 @@
     "daire_id": 311,
     "daira_name": "Berrouaghia",
     "daira_name_ar": "البرواقية",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3115,6 +3426,7 @@
     "daire_id": 312,
     "daira_name": "Seghouane",
     "daira_name_ar": "سغوان",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3125,6 +3437,7 @@
     "daire_id": 313,
     "daira_name": "Tablat",
     "daira_name_ar": "تابلاط",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3135,6 +3448,7 @@
     "daire_id": 314,
     "daira_name": "Medea",
     "daira_name_ar": "المدية",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3145,6 +3459,7 @@
     "daire_id": 315,
     "daira_name": "Ouzera",
     "daira_name_ar": "وزرة",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3155,6 +3470,7 @@
     "daire_id": 316,
     "daira_name": "Ain Boucif",
     "daira_name_ar": "عين بوسيف",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3165,6 +3481,7 @@
     "daire_id": 317,
     "daira_name": "El Omaria",
     "daira_name_ar": "العمارية",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3175,6 +3492,7 @@
     "daire_id": 318,
     "daira_name": "Guelb El Kebir",
     "daira_name_ar": "القلب الكبير",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3185,6 +3503,7 @@
     "daire_id": 319,
     "daira_name": "Chellalat El Adhaoura",
     "daira_name_ar": "شلالة العذاورة",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3195,6 +3514,7 @@
     "daire_id": 320,
     "daira_name": "Sidi Naamane",
     "daira_name_ar": "سيدي نعمان",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3205,6 +3525,7 @@
     "daire_id": 321,
     "daira_name": "Aziz",
     "daira_name_ar": "عزيز",
+    "ok_district": null,
     "wilaya_code": 26,
     "wilaya_name": "Médéa",
     "wilaya_name_ar": "المدية"
@@ -3215,6 +3536,7 @@
     "daire_id": 322,
     "daira_name": "Ain Nouicy",
     "daira_name_ar": "عين نويسي",
+    "ok_district": null,
     "wilaya_code": 27,
     "wilaya_name": "Mostaganem",
     "wilaya_name_ar": "مستغانم"
@@ -3225,6 +3547,7 @@
     "daire_id": 323,
     "daira_name": "Ain Tedeles",
     "daira_name_ar": "عين تادلس",
+    "ok_district": null,
     "wilaya_code": 27,
     "wilaya_name": "Mostaganem",
     "wilaya_name_ar": "مستغانم"
@@ -3235,6 +3558,7 @@
     "daire_id": 324,
     "daira_name": "Hassi Mameche",
     "daira_name_ar": "حاسي ماماش",
+    "ok_district": null,
     "wilaya_code": 27,
     "wilaya_name": "Mostaganem",
     "wilaya_name_ar": "مستغانم"
@@ -3245,6 +3569,7 @@
     "daire_id": 325,
     "daira_name": "Kheir Eddine",
     "daira_name_ar": "خير الدين",
+    "ok_district": null,
     "wilaya_code": 27,
     "wilaya_name": "Mostaganem",
     "wilaya_name_ar": "مستغانم"
@@ -3255,6 +3580,7 @@
     "daire_id": 326,
     "daira_name": "Sidi Ali",
     "daira_name_ar": "سيدي علي",
+    "ok_district": null,
     "wilaya_code": 27,
     "wilaya_name": "Mostaganem",
     "wilaya_name_ar": "مستغانم"
@@ -3265,6 +3591,7 @@
     "daire_id": 327,
     "daira_name": "Sidi Lakhdar",
     "daira_name_ar": "سيدي لخضر",
+    "ok_district": null,
     "wilaya_code": 27,
     "wilaya_name": "Mostaganem",
     "wilaya_name_ar": "مستغانم"
@@ -3275,6 +3602,7 @@
     "daire_id": 328,
     "daira_name": "Mostaganem",
     "daira_name_ar": "مستغانم",
+    "ok_district": null,
     "wilaya_code": 27,
     "wilaya_name": "Mostaganem",
     "wilaya_name_ar": "مستغانم"
@@ -3285,6 +3613,7 @@
     "daire_id": 329,
     "daira_name": "Achaacha",
     "daira_name_ar": "عشعاشة",
+    "ok_district": null,
     "wilaya_code": 27,
     "wilaya_name": "Mostaganem",
     "wilaya_name_ar": "مستغانم"
@@ -3295,6 +3624,7 @@
     "daire_id": 330,
     "daira_name": "Bouguirat",
     "daira_name_ar": "بوقيراط",
+    "ok_district": null,
     "wilaya_code": 27,
     "wilaya_name": "Mostaganem",
     "wilaya_name_ar": "مستغانم"
@@ -3305,6 +3635,7 @@
     "daire_id": 331,
     "daira_name": "Mesra",
     "daira_name_ar": "ماسرة",
+    "ok_district": null,
     "wilaya_code": 27,
     "wilaya_name": "Mostaganem",
     "wilaya_name_ar": "مستغانم"
@@ -3315,6 +3646,7 @@
     "daire_id": 332,
     "daira_name": "Chellal",
     "daira_name_ar": "شلال",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3325,6 +3657,7 @@
     "daire_id": 333,
     "daira_name": "Magra",
     "daira_name_ar": "مقرة",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3335,6 +3668,7 @@
     "daire_id": 334,
     "daira_name": "Sidi Aissa",
     "daira_name_ar": "سيدي عيسى",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3345,6 +3679,7 @@
     "daire_id": 335,
     "daira_name": "Ain El Hadjel",
     "daira_name_ar": "عين الحجل",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3355,6 +3690,7 @@
     "daire_id": 336,
     "daira_name": "Bousaada",
     "daira_name_ar": "بوسعادة",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3365,6 +3701,7 @@
     "daire_id": 337,
     "daira_name": "Ouled Sidi Brahim",
     "daira_name_ar": "أولاد سيدي ابراهيم",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3375,6 +3712,7 @@
     "daire_id": 338,
     "daira_name": "Sidi Ameur",
     "daira_name_ar": "سيدي عامر",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3385,6 +3723,7 @@
     "daire_id": 339,
     "daira_name": "Ben Srour",
     "daira_name_ar": "بن سرور",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3395,6 +3734,7 @@
     "daire_id": 340,
     "daira_name": "Ain El Melh",
     "daira_name_ar": "عين الملح",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3405,6 +3745,7 @@
     "daire_id": 341,
     "daira_name": "Medjedel",
     "daira_name_ar": "امجدل",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3415,6 +3756,7 @@
     "daire_id": 342,
     "daira_name": "Djebel Messaad",
     "daira_name_ar": "جبل مساعد",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3425,6 +3767,7 @@
     "daire_id": 343,
     "daira_name": "M'sila",
     "daira_name_ar": "المسيلة",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3435,6 +3778,7 @@
     "daire_id": 344,
     "daira_name": "Hammam Dalaa",
     "daira_name_ar": "حمام الضلعة",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3445,6 +3789,7 @@
     "daire_id": 345,
     "daira_name": "Ouled Derradj",
     "daira_name_ar": "أولاد دراج",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3455,6 +3800,7 @@
     "daire_id": 346,
     "daira_name": "Khoubana",
     "daira_name_ar": "خبانة",
+    "ok_district": null,
     "wilaya_code": 28,
     "wilaya_name": "M'Sila",
     "wilaya_name_ar": "المسيلة"
@@ -3465,6 +3811,7 @@
     "daire_id": 347,
     "daira_name": "Oued El Abtal",
     "daira_name_ar": "وادي الأبطال",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3475,6 +3822,7 @@
     "daire_id": 348,
     "daira_name": "Mohammadia",
     "daira_name_ar": "المحمدية",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3485,6 +3833,7 @@
     "daire_id": 349,
     "daira_name": "Tighennif",
     "daira_name_ar": "تيغنيف",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3495,6 +3844,7 @@
     "daire_id": 350,
     "daira_name": "Zahana",
     "daira_name_ar": "زهانة",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3505,6 +3855,7 @@
     "daire_id": 351,
     "daira_name": "Oggaz",
     "daira_name_ar": "عقاز",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3515,6 +3866,7 @@
     "daire_id": 352,
     "daira_name": "Sig",
     "daira_name_ar": "سيق",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3525,6 +3877,7 @@
     "daire_id": 353,
     "daira_name": "Ain Fares",
     "daira_name_ar": "عين فارس",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3535,6 +3888,7 @@
     "daire_id": 354,
     "daira_name": "Bouhanifia",
     "daira_name_ar": "بوحنيفية",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3545,6 +3899,7 @@
     "daire_id": 355,
     "daira_name": "Aouf",
     "daira_name_ar": "عوف",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3555,6 +3910,7 @@
     "daire_id": 356,
     "daira_name": "Oued Taria",
     "daira_name_ar": "وادي التاغية",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3565,6 +3921,7 @@
     "daire_id": 357,
     "daira_name": "Ain Fekan",
     "daira_name_ar": "عين فكان",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3575,6 +3932,7 @@
     "daire_id": 358,
     "daira_name": "El Bordj",
     "daira_name_ar": "البرج",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3585,6 +3943,7 @@
     "daire_id": 359,
     "daira_name": "Ghriss",
     "daira_name_ar": "غريس",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3595,6 +3954,7 @@
     "daire_id": 360,
     "daira_name": "Mascara",
     "daira_name_ar": "معسكر",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3605,6 +3965,7 @@
     "daire_id": 361,
     "daira_name": "Tizi",
     "daira_name_ar": "تيزي",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3615,6 +3976,7 @@
     "daire_id": 362,
     "daira_name": "Hachem",
     "daira_name_ar": "الحشم",
+    "ok_district": null,
     "wilaya_code": 29,
     "wilaya_name": "Mascara",
     "wilaya_name_ar": "معسكر"
@@ -3625,6 +3987,7 @@
     "daire_id": 363,
     "daira_name": "Ouargla",
     "daira_name_ar": "ورقلة",
+    "ok_district": null,
     "wilaya_code": 30,
     "wilaya_name": "Ouargla",
     "wilaya_name_ar": "ورقلة"
@@ -3635,6 +3998,7 @@
     "daire_id": 364,
     "daira_name": "Hassi Messaoud",
     "daira_name_ar": "حاسي مسعود",
+    "ok_district": null,
     "wilaya_code": 30,
     "wilaya_name": "Ouargla",
     "wilaya_name_ar": "ورقلة"
@@ -3645,6 +4009,7 @@
     "daire_id": 365,
     "daira_name": "Sidi Khouiled",
     "daira_name_ar": "سيدي خويلد",
+    "ok_district": null,
     "wilaya_code": 30,
     "wilaya_name": "Ouargla",
     "wilaya_name_ar": "ورقلة"
@@ -3655,6 +4020,7 @@
     "daire_id": 366,
     "daira_name": "El Borma",
     "daira_name_ar": "البرمة",
+    "ok_district": null,
     "wilaya_code": 30,
     "wilaya_name": "Ouargla",
     "wilaya_name_ar": "ورقلة"
@@ -3665,6 +4031,7 @@
     "daire_id": 367,
     "daira_name": "N'goussa",
     "daira_name_ar": "انقوسة",
+    "ok_district": null,
     "wilaya_code": 30,
     "wilaya_name": "Ouargla",
     "wilaya_name_ar": "ورقلة"
@@ -3675,6 +4042,7 @@
     "daire_id": 368,
     "daira_name": "Es Senia",
     "daira_name_ar": "السانية",
+    "ok_district": null,
     "wilaya_code": 31,
     "wilaya_name": "Oran",
     "wilaya_name_ar": "وهران"
@@ -3685,6 +4053,7 @@
     "daire_id": 369,
     "daira_name": "Gdyel",
     "daira_name_ar": "قديل",
+    "ok_district": null,
     "wilaya_code": 31,
     "wilaya_name": "Oran",
     "wilaya_name_ar": "وهران"
@@ -3695,6 +4064,7 @@
     "daire_id": 370,
     "daira_name": "Bir El Djir",
     "daira_name_ar": "بئر الجير",
+    "ok_district": null,
     "wilaya_code": 31,
     "wilaya_name": "Oran",
     "wilaya_name_ar": "وهران"
@@ -3705,6 +4075,7 @@
     "daire_id": 371,
     "daira_name": "Arzew",
     "daira_name_ar": "أرزيو",
+    "ok_district": null,
     "wilaya_code": 31,
     "wilaya_name": "Oran",
     "wilaya_name_ar": "وهران"
@@ -3715,6 +4086,7 @@
     "daire_id": 372,
     "daira_name": "Bethioua",
     "daira_name_ar": "بطيوة",
+    "ok_district": null,
     "wilaya_code": 31,
     "wilaya_name": "Oran",
     "wilaya_name_ar": "وهران"
@@ -3725,6 +4097,7 @@
     "daire_id": 373,
     "daira_name": "Ain Turk",
     "daira_name_ar": "عين الترك",
+    "ok_district": null,
     "wilaya_code": 31,
     "wilaya_name": "Oran",
     "wilaya_name_ar": "وهران"
@@ -3735,6 +4108,7 @@
     "daire_id": 374,
     "daira_name": "Oran",
     "daira_name_ar": "وهران",
+    "ok_district": null,
     "wilaya_code": 31,
     "wilaya_name": "Oran",
     "wilaya_name_ar": "وهران"
@@ -3745,6 +4119,7 @@
     "daire_id": 375,
     "daira_name": "Oued Tlelat",
     "daira_name_ar": "وادي تليلات",
+    "ok_district": null,
     "wilaya_code": 31,
     "wilaya_name": "Oran",
     "wilaya_name_ar": "وهران"
@@ -3755,6 +4130,7 @@
     "daire_id": 376,
     "daira_name": "Boutlelis",
     "daira_name_ar": "بوتليليس",
+    "ok_district": null,
     "wilaya_code": 31,
     "wilaya_name": "Oran",
     "wilaya_name_ar": "وهران"
@@ -3765,6 +4141,7 @@
     "daire_id": 377,
     "daira_name": "Labiodh Sidi Cheikh",
     "daira_name_ar": "الأبيض سيدي الشيخ",
+    "ok_district": null,
     "wilaya_code": 32,
     "wilaya_name": "El Bayadh",
     "wilaya_name_ar": "البيض"
@@ -3775,6 +4152,7 @@
     "daire_id": 378,
     "daira_name": "Brezina",
     "daira_name_ar": "بريزينة",
+    "ok_district": null,
     "wilaya_code": 32,
     "wilaya_name": "El Bayadh",
     "wilaya_name_ar": "البيض"
@@ -3785,6 +4163,7 @@
     "daire_id": 379,
     "daira_name": "Boualem",
     "daira_name_ar": "بوعلام",
+    "ok_district": null,
     "wilaya_code": 32,
     "wilaya_name": "El Bayadh",
     "wilaya_name_ar": "البيض"
@@ -3795,6 +4174,7 @@
     "daire_id": 380,
     "daira_name": "Bougtoub",
     "daira_name_ar": "بوقطب",
+    "ok_district": null,
     "wilaya_code": 32,
     "wilaya_name": "El Bayadh",
     "wilaya_name_ar": "البيض"
@@ -3805,6 +4185,7 @@
     "daire_id": 381,
     "daira_name": "El Bayadh",
     "daira_name_ar": "البيض",
+    "ok_district": null,
     "wilaya_code": 32,
     "wilaya_name": "El Bayadh",
     "wilaya_name_ar": "البيض"
@@ -3815,6 +4196,7 @@
     "daire_id": 382,
     "daira_name": "Rogassa",
     "daira_name_ar": "رقاصة",
+    "ok_district": null,
     "wilaya_code": 32,
     "wilaya_name": "El Bayadh",
     "wilaya_name_ar": "البيض"
@@ -3825,6 +4207,7 @@
     "daire_id": 383,
     "daira_name": "Chellala",
     "daira_name_ar": "شلالة",
+    "ok_district": null,
     "wilaya_code": 32,
     "wilaya_name": "El Bayadh",
     "wilaya_name_ar": "البيض"
@@ -3835,6 +4218,7 @@
     "daire_id": 384,
     "daira_name": "Boussemghoun",
     "daira_name_ar": "بوسمغون",
+    "ok_district": null,
     "wilaya_code": 32,
     "wilaya_name": "El Bayadh",
     "wilaya_name_ar": "البيض"
@@ -3845,6 +4229,7 @@
     "daire_id": 385,
     "daira_name": "In Amenas",
     "daira_name_ar": "إن أمناس",
+    "ok_district": null,
     "wilaya_code": 33,
     "wilaya_name": "Illizi",
     "wilaya_name_ar": "إليزي"
@@ -3855,6 +4240,7 @@
     "daire_id": 386,
     "daira_name": "Illizi",
     "daira_name_ar": "إيليزي",
+    "ok_district": null,
     "wilaya_code": 33,
     "wilaya_name": "Illizi",
     "wilaya_name_ar": "إليزي"
@@ -3865,6 +4251,7 @@
     "daire_id": 387,
     "daira_name": "El Hamadia",
     "daira_name_ar": "الحمادية",
+    "ok_district": null,
     "wilaya_code": 34,
     "wilaya_name": "Bordj Bou Arreridj",
     "wilaya_name_ar": "برج بوعريريج"
@@ -3875,6 +4262,7 @@
     "daire_id": 388,
     "daira_name": "Ain Taghrout",
     "daira_name_ar": "عين تاغروت",
+    "ok_district": null,
     "wilaya_code": 34,
     "wilaya_name": "Bordj Bou Arreridj",
     "wilaya_name_ar": "برج بوعريريج"
@@ -3885,6 +4273,7 @@
     "daire_id": 389,
     "daira_name": "Bordj Ghedir",
     "daira_name_ar": "برج الغدير",
+    "ok_district": null,
     "wilaya_code": 34,
     "wilaya_name": "Bordj Bou Arreridj",
     "wilaya_name_ar": "برج بوعريريج"
@@ -3895,6 +4284,7 @@
     "daire_id": 390,
     "daira_name": "Bir Kasdali",
     "daira_name_ar": "بئر قاصد علي",
+    "ok_district": null,
     "wilaya_code": 34,
     "wilaya_name": "Bordj Bou Arreridj",
     "wilaya_name_ar": "برج بوعريريج"
@@ -3905,6 +4295,7 @@
     "daire_id": 391,
     "daira_name": "Djaafra",
     "daira_name_ar": "جعافرة",
+    "ok_district": null,
     "wilaya_code": 34,
     "wilaya_name": "Bordj Bou Arreridj",
     "wilaya_name_ar": "برج بوعريريج"
@@ -3915,6 +4306,7 @@
     "daire_id": 392,
     "daira_name": "Medjana",
     "daira_name_ar": "مجانة",
+    "ok_district": null,
     "wilaya_code": 34,
     "wilaya_name": "Bordj Bou Arreridj",
     "wilaya_name_ar": "برج بوعريريج"
@@ -3925,6 +4317,7 @@
     "daire_id": 393,
     "daira_name": "Ras El Oued",
     "daira_name_ar": "رأس الوادي",
+    "ok_district": null,
     "wilaya_code": 34,
     "wilaya_name": "Bordj Bou Arreridj",
     "wilaya_name_ar": "برج بوعريريج"
@@ -3935,6 +4328,7 @@
     "daire_id": 394,
     "daira_name": "Bordj Zemmoura",
     "daira_name_ar": "برج زمورة",
+    "ok_district": null,
     "wilaya_code": 34,
     "wilaya_name": "Bordj Bou Arreridj",
     "wilaya_name_ar": "برج بوعريريج"
@@ -3945,6 +4339,7 @@
     "daire_id": 395,
     "daira_name": "Bordj Bou Arreridj",
     "daira_name_ar": "برج بوعريريج",
+    "ok_district": null,
     "wilaya_code": 34,
     "wilaya_name": "Bordj Bou Arreridj",
     "wilaya_name_ar": "برج بوعريريج"
@@ -3955,6 +4350,7 @@
     "daire_id": 396,
     "daira_name": "Boudouaou",
     "daira_name_ar": "بودواو",
+    "ok_district": null,
     "wilaya_code": 35,
     "wilaya_name": "Boumerdès",
     "wilaya_name_ar": "بومرداس"
@@ -3965,6 +4361,7 @@
     "daire_id": 397,
     "daira_name": "Dellys",
     "daira_name_ar": "دلس",
+    "ok_district": null,
     "wilaya_code": 35,
     "wilaya_name": "Boumerdès",
     "wilaya_name_ar": "بومرداس"
@@ -3975,6 +4372,7 @@
     "daire_id": 398,
     "daira_name": "Thenia",
     "daira_name_ar": "الثنية",
+    "ok_district": null,
     "wilaya_code": 35,
     "wilaya_name": "Boumerdès",
     "wilaya_name_ar": "بومرداس"
@@ -3985,6 +4383,7 @@
     "daire_id": 399,
     "daira_name": "Khemis El Khechna",
     "daira_name_ar": "خميس الخشنة",
+    "ok_district": null,
     "wilaya_code": 35,
     "wilaya_name": "Boumerdès",
     "wilaya_name_ar": "بومرداس"
@@ -3995,6 +4394,7 @@
     "daire_id": 400,
     "daira_name": "Isser",
     "daira_name_ar": "يسر",
+    "ok_district": null,
     "wilaya_code": 35,
     "wilaya_name": "Boumerdès",
     "wilaya_name_ar": "بومرداس"
@@ -4005,6 +4405,7 @@
     "daire_id": 401,
     "daira_name": "Bordj Menaiel",
     "daira_name_ar": "برج منايل",
+    "ok_district": null,
     "wilaya_code": 35,
     "wilaya_name": "Boumerdès",
     "wilaya_name_ar": "بومرداس"
@@ -4015,6 +4416,7 @@
     "daire_id": 402,
     "daira_name": "Naciria",
     "daira_name_ar": "الناصرية",
+    "ok_district": null,
     "wilaya_code": 35,
     "wilaya_name": "Boumerdès",
     "wilaya_name_ar": "بومرداس"
@@ -4025,6 +4427,7 @@
     "daire_id": 403,
     "daira_name": "Baghlia",
     "daira_name_ar": "بغلية",
+    "ok_district": null,
     "wilaya_code": 35,
     "wilaya_name": "Boumerdès",
     "wilaya_name_ar": "بومرداس"
@@ -4035,6 +4438,7 @@
     "daire_id": 404,
     "daira_name": "Boumerdes",
     "daira_name_ar": "بومرداس",
+    "ok_district": null,
     "wilaya_code": 35,
     "wilaya_name": "Boumerdès",
     "wilaya_name_ar": "بومرداس"
@@ -4045,6 +4449,7 @@
     "daire_id": 405,
     "daira_name": "El Tarf",
     "daira_name_ar": "الطارف",
+    "ok_district": null,
     "wilaya_code": 36,
     "wilaya_name": "El Tarf",
     "wilaya_name_ar": "الطارف"
@@ -4055,6 +4460,7 @@
     "daire_id": 406,
     "daira_name": "Besbes",
     "daira_name_ar": "البسباس",
+    "ok_district": null,
     "wilaya_code": 36,
     "wilaya_name": "El Tarf",
     "wilaya_name_ar": "الطارف"
@@ -4065,6 +4471,7 @@
     "daire_id": 407,
     "daira_name": "Bouhadjar",
     "daira_name_ar": "بوحجار",
+    "ok_district": null,
     "wilaya_code": 36,
     "wilaya_name": "El Tarf",
     "wilaya_name_ar": "الطارف"
@@ -4075,6 +4482,7 @@
     "daire_id": 408,
     "daira_name": "Ben M'hidi",
     "daira_name_ar": "بن مهيدي",
+    "ok_district": null,
     "wilaya_code": 36,
     "wilaya_name": "El Tarf",
     "wilaya_name_ar": "الطارف"
@@ -4085,6 +4493,7 @@
     "daire_id": 409,
     "daira_name": "Drean",
     "daira_name_ar": "الذرعان",
+    "ok_district": null,
     "wilaya_code": 36,
     "wilaya_name": "El Tarf",
     "wilaya_name_ar": "الطارف"
@@ -4095,6 +4504,7 @@
     "daire_id": 410,
     "daira_name": "El Kala",
     "daira_name_ar": "القالة",
+    "ok_district": null,
     "wilaya_code": 36,
     "wilaya_name": "El Tarf",
     "wilaya_name_ar": "الطارف"
@@ -4105,6 +4515,7 @@
     "daire_id": 411,
     "daira_name": "Bouteldja",
     "daira_name_ar": "بوثلجة",
+    "ok_district": null,
     "wilaya_code": 36,
     "wilaya_name": "El Tarf",
     "wilaya_name_ar": "الطارف"
@@ -4115,6 +4526,7 @@
     "daire_id": 412,
     "daira_name": "Tindouf",
     "daira_name_ar": "تندوف",
+    "ok_district": null,
     "wilaya_code": 37,
     "wilaya_name": "Tindouf",
     "wilaya_name_ar": "تندوف"
@@ -4125,6 +4537,7 @@
     "daire_id": 413,
     "daira_name": "Khemisti",
     "daira_name_ar": "خميستي",
+    "ok_district": null,
     "wilaya_code": 38,
     "wilaya_name": "Tissemsilt",
     "wilaya_name_ar": "تيسمسيلت"
@@ -4135,6 +4548,7 @@
     "daire_id": 414,
     "daira_name": "Theniet El Had",
     "daira_name_ar": "ثنية الاحد",
+    "ok_district": null,
     "wilaya_code": 38,
     "wilaya_name": "Tissemsilt",
     "wilaya_name_ar": "تيسمسيلت"
@@ -4145,6 +4559,7 @@
     "daire_id": 415,
     "daira_name": "Tissemsilt",
     "daira_name_ar": "تيسمسيلت",
+    "ok_district": null,
     "wilaya_code": 38,
     "wilaya_name": "Tissemsilt",
     "wilaya_name_ar": "تيسمسيلت"
@@ -4155,6 +4570,7 @@
     "daire_id": 416,
     "daira_name": "Lardjem",
     "daira_name_ar": "لرجام",
+    "ok_district": null,
     "wilaya_code": 38,
     "wilaya_name": "Tissemsilt",
     "wilaya_name_ar": "تيسمسيلت"
@@ -4165,6 +4581,7 @@
     "daire_id": 417,
     "daira_name": "Bordj Bounaama",
     "daira_name_ar": "برج بونعامة",
+    "ok_district": null,
     "wilaya_code": 38,
     "wilaya_name": "Tissemsilt",
     "wilaya_name_ar": "تيسمسيلت"
@@ -4175,6 +4592,7 @@
     "daire_id": 418,
     "daira_name": "Ammari",
     "daira_name_ar": "عماري",
+    "ok_district": null,
     "wilaya_code": 38,
     "wilaya_name": "Tissemsilt",
     "wilaya_name_ar": "تيسمسيلت"
@@ -4185,6 +4603,7 @@
     "daire_id": 419,
     "daira_name": "Lazharia",
     "daira_name_ar": "الأزهرية",
+    "ok_district": null,
     "wilaya_code": 38,
     "wilaya_name": "Tissemsilt",
     "wilaya_name_ar": "تيسمسيلت"
@@ -4195,6 +4614,7 @@
     "daire_id": 420,
     "daira_name": "Bordj Emir Abdelkader",
     "daira_name_ar": "برج الأمير عبد القادر",
+    "ok_district": null,
     "wilaya_code": 38,
     "wilaya_name": "Tissemsilt",
     "wilaya_name_ar": "تيسمسيلت"
@@ -4205,6 +4625,7 @@
     "daire_id": 421,
     "daira_name": "Taleb Larbi",
     "daira_name_ar": "الطالب العربي",
+    "ok_district": null,
     "wilaya_code": 39,
     "wilaya_name": "El Oued",
     "wilaya_name_ar": "الوادي"
@@ -4215,6 +4636,7 @@
     "daire_id": 422,
     "daira_name": "Robbah",
     "daira_name_ar": "الرباح",
+    "ok_district": null,
     "wilaya_code": 39,
     "wilaya_name": "El Oued",
     "wilaya_name_ar": "الوادي"
@@ -4225,6 +4647,7 @@
     "daire_id": 423,
     "daira_name": "Magrane",
     "daira_name_ar": "المقرن",
+    "ok_district": null,
     "wilaya_code": 39,
     "wilaya_name": "El Oued",
     "wilaya_name_ar": "الوادي"
@@ -4235,6 +4658,7 @@
     "daire_id": 424,
     "daira_name": "Mih Ouensa",
     "daira_name_ar": "اميه وانسة",
+    "ok_district": null,
     "wilaya_code": 39,
     "wilaya_name": "El Oued",
     "wilaya_name_ar": "الوادي"
@@ -4245,6 +4669,7 @@
     "daire_id": 425,
     "daira_name": "El Oued",
     "daira_name_ar": "الوادي",
+    "ok_district": null,
     "wilaya_code": 39,
     "wilaya_name": "El Oued",
     "wilaya_name_ar": "الوادي"
@@ -4255,6 +4680,7 @@
     "daire_id": 426,
     "daira_name": "Bayadha",
     "daira_name_ar": "البياضة",
+    "ok_district": null,
     "wilaya_code": 39,
     "wilaya_name": "El Oued",
     "wilaya_name_ar": "الوادي"
@@ -4265,6 +4691,7 @@
     "daire_id": 427,
     "daira_name": "Guemar",
     "daira_name_ar": "قمار",
+    "ok_district": null,
     "wilaya_code": 39,
     "wilaya_name": "El Oued",
     "wilaya_name_ar": "الوادي"
@@ -4275,6 +4702,7 @@
     "daire_id": 428,
     "daira_name": "Reguiba",
     "daira_name_ar": "الرقيبة",
+    "ok_district": null,
     "wilaya_code": 39,
     "wilaya_name": "El Oued",
     "wilaya_name_ar": "الوادي"
@@ -4285,6 +4713,7 @@
     "daire_id": 429,
     "daira_name": "Debila",
     "daira_name_ar": "الدبيلة",
+    "ok_district": null,
     "wilaya_code": 39,
     "wilaya_name": "El Oued",
     "wilaya_name_ar": "الوادي"
@@ -4295,6 +4724,7 @@
     "daire_id": 430,
     "daira_name": "Hassi Khalifa",
     "daira_name_ar": "حاسي خليفة",
+    "ok_district": null,
     "wilaya_code": 39,
     "wilaya_name": "El Oued",
     "wilaya_name_ar": "الوادي"
@@ -4305,6 +4735,7 @@
     "daire_id": 431,
     "daira_name": "Chechar",
     "daira_name_ar": "ششار",
+    "ok_district": null,
     "wilaya_code": 40,
     "wilaya_name": "Khenchela",
     "wilaya_name_ar": "خنشلة"
@@ -4315,6 +4746,7 @@
     "daire_id": 432,
     "daira_name": "Babar",
     "daira_name_ar": "بابار",
+    "ok_district": null,
     "wilaya_code": 40,
     "wilaya_name": "Khenchela",
     "wilaya_name_ar": "خنشلة"
@@ -4325,6 +4757,7 @@
     "daire_id": 433,
     "daira_name": "Ouled Rechache",
     "daira_name_ar": "أولاد رشاش",
+    "ok_district": null,
     "wilaya_code": 40,
     "wilaya_name": "Khenchela",
     "wilaya_name_ar": "خنشلة"
@@ -4335,6 +4768,7 @@
     "daire_id": 434,
     "daira_name": "Bouhmama",
     "daira_name_ar": "بوحمامة",
+    "ok_district": null,
     "wilaya_code": 40,
     "wilaya_name": "Khenchela",
     "wilaya_name_ar": "خنشلة"
@@ -4345,6 +4779,7 @@
     "daire_id": 435,
     "daira_name": "Khenchela",
     "daira_name_ar": "خنشلة",
+    "ok_district": null,
     "wilaya_code": 40,
     "wilaya_name": "Khenchela",
     "wilaya_name_ar": "خنشلة"
@@ -4355,6 +4790,7 @@
     "daire_id": 436,
     "daira_name": "Kais",
     "daira_name_ar": "قايس",
+    "ok_district": null,
     "wilaya_code": 40,
     "wilaya_name": "Khenchela",
     "wilaya_name_ar": "خنشلة"
@@ -4365,6 +4801,7 @@
     "daire_id": 437,
     "daira_name": "El Hamma",
     "daira_name_ar": "الحامة",
+    "ok_district": null,
     "wilaya_code": 40,
     "wilaya_name": "Khenchela",
     "wilaya_name_ar": "خنشلة"
@@ -4375,6 +4812,7 @@
     "daire_id": 438,
     "daira_name": "Ain Touila",
     "daira_name_ar": "عين الطويلة",
+    "ok_district": null,
     "wilaya_code": 40,
     "wilaya_name": "Khenchela",
     "wilaya_name_ar": "خنشلة"
@@ -4385,6 +4823,7 @@
     "daire_id": 439,
     "daira_name": "Souk Ahras",
     "daira_name_ar": "سوق أهراس",
+    "ok_district": null,
     "wilaya_code": 41,
     "wilaya_name": "Souk Ahras",
     "wilaya_name_ar": "سوق أهراس"
@@ -4395,6 +4834,7 @@
     "daire_id": 440,
     "daira_name": "Sedrata",
     "daira_name_ar": "سدراتة",
+    "ok_district": null,
     "wilaya_code": 41,
     "wilaya_name": "Souk Ahras",
     "wilaya_name_ar": "سوق أهراس"
@@ -4405,6 +4845,7 @@
     "daire_id": 441,
     "daira_name": "Mechroha",
     "daira_name_ar": "المشروحة",
+    "ok_district": null,
     "wilaya_code": 41,
     "wilaya_name": "Souk Ahras",
     "wilaya_name_ar": "سوق أهراس"
@@ -4415,6 +4856,7 @@
     "daire_id": 442,
     "daira_name": "Ouled Driss",
     "daira_name_ar": "أولاد إدريس",
+    "ok_district": null,
     "wilaya_code": 41,
     "wilaya_name": "Souk Ahras",
     "wilaya_name_ar": "سوق أهراس"
@@ -4425,6 +4867,7 @@
     "daire_id": 443,
     "daira_name": "Oum El Adhaim",
     "daira_name_ar": "أم العظايم",
+    "ok_district": null,
     "wilaya_code": 41,
     "wilaya_name": "Souk Ahras",
     "wilaya_name_ar": "سوق أهراس"
@@ -4435,6 +4878,7 @@
     "daire_id": 444,
     "daira_name": "M'daourouche",
     "daira_name_ar": "مداوروش",
+    "ok_district": null,
     "wilaya_code": 41,
     "wilaya_name": "Souk Ahras",
     "wilaya_name_ar": "سوق أهراس"
@@ -4445,6 +4889,7 @@
     "daire_id": 445,
     "daira_name": "Taoura",
     "daira_name_ar": "تاورة",
+    "ok_district": null,
     "wilaya_code": 41,
     "wilaya_name": "Souk Ahras",
     "wilaya_name_ar": "سوق أهراس"
@@ -4455,6 +4900,7 @@
     "daire_id": 446,
     "daira_name": "Haddada",
     "daira_name_ar": "الحدادة",
+    "ok_district": null,
     "wilaya_code": 41,
     "wilaya_name": "Souk Ahras",
     "wilaya_name_ar": "سوق أهراس"
@@ -4465,6 +4911,7 @@
     "daire_id": 447,
     "daira_name": "Merahna",
     "daira_name_ar": "المراهنة",
+    "ok_district": null,
     "wilaya_code": 41,
     "wilaya_name": "Souk Ahras",
     "wilaya_name_ar": "سوق أهراس"
@@ -4475,6 +4922,7 @@
     "daire_id": 448,
     "daira_name": "Bir Bouhouche",
     "daira_name_ar": "بئر بوحوش",
+    "ok_district": null,
     "wilaya_code": 41,
     "wilaya_name": "Souk Ahras",
     "wilaya_name_ar": "سوق أهراس"
@@ -4485,6 +4933,7 @@
     "daire_id": 449,
     "daira_name": "Hadjout",
     "daira_name_ar": "حجوط",
+    "ok_district": null,
     "wilaya_code": 42,
     "wilaya_name": "Tipaza",
     "wilaya_name_ar": "تيبازة"
@@ -4495,6 +4944,7 @@
     "daire_id": 450,
     "daira_name": "Sidi Amar",
     "daira_name_ar": "سيدي أعمر",
+    "ok_district": null,
     "wilaya_code": 42,
     "wilaya_name": "Tipaza",
     "wilaya_name_ar": "تيبازة"
@@ -4505,6 +4955,7 @@
     "daire_id": 451,
     "daira_name": "Gouraya",
     "daira_name_ar": "قوراية",
+    "ok_district": null,
     "wilaya_code": 42,
     "wilaya_name": "Tipaza",
     "wilaya_name_ar": "تيبازة"
@@ -4515,6 +4966,7 @@
     "daire_id": 452,
     "daira_name": "Cherchell",
     "daira_name_ar": "شرشال",
+    "ok_district": null,
     "wilaya_code": 42,
     "wilaya_name": "Tipaza",
     "wilaya_name_ar": "تيبازة"
@@ -4525,6 +4977,7 @@
     "daire_id": 453,
     "daira_name": "Damous",
     "daira_name_ar": "الداموس",
+    "ok_district": null,
     "wilaya_code": 42,
     "wilaya_name": "Tipaza",
     "wilaya_name_ar": "تيبازة"
@@ -4535,6 +4988,7 @@
     "daire_id": 454,
     "daira_name": "Fouka",
     "daira_name_ar": "فوكة",
+    "ok_district": null,
     "wilaya_code": 42,
     "wilaya_name": "Tipaza",
     "wilaya_name_ar": "تيبازة"
@@ -4545,6 +4999,7 @@
     "daire_id": 455,
     "daira_name": "Bou Ismail",
     "daira_name_ar": "بواسماعيل",
+    "ok_district": null,
     "wilaya_code": 42,
     "wilaya_name": "Tipaza",
     "wilaya_name_ar": "تيبازة"
@@ -4555,6 +5010,7 @@
     "daire_id": 456,
     "daira_name": "Ahmar El Ain",
     "daira_name_ar": "أحمر العين",
+    "ok_district": null,
     "wilaya_code": 42,
     "wilaya_name": "Tipaza",
     "wilaya_name_ar": "تيبازة"
@@ -4565,6 +5021,7 @@
     "daire_id": 457,
     "daira_name": "Kolea",
     "daira_name_ar": "القليعة",
+    "ok_district": null,
     "wilaya_code": 42,
     "wilaya_name": "Tipaza",
     "wilaya_name_ar": "تيبازة"
@@ -4575,6 +5032,7 @@
     "daire_id": 458,
     "daira_name": "Tipaza",
     "daira_name_ar": "تيبازة",
+    "ok_district": null,
     "wilaya_code": 42,
     "wilaya_name": "Tipaza",
     "wilaya_name_ar": "تيبازة"
@@ -4585,6 +5043,7 @@
     "daire_id": 459,
     "daira_name": "Teleghma",
     "daira_name_ar": "التلاغمة",
+    "ok_district": null,
     "wilaya_code": 43,
     "wilaya_name": "Mila",
     "wilaya_name_ar": "ميلة"
@@ -4595,6 +5054,7 @@
     "daire_id": 460,
     "daira_name": "Ain Beida Harriche",
     "daira_name_ar": "عين البيضاء أحريش",
+    "ok_district": null,
     "wilaya_code": 43,
     "wilaya_name": "Mila",
     "wilaya_name_ar": "ميلة"
@@ -4605,6 +5065,7 @@
     "daire_id": 461,
     "daira_name": "Terrai Bainen",
     "daira_name_ar": "ترعي باينان",
+    "ok_district": null,
     "wilaya_code": 43,
     "wilaya_name": "Mila",
     "wilaya_name_ar": "ميلة"
@@ -4615,6 +5076,7 @@
     "daire_id": 462,
     "daira_name": "Tassadane Haddada",
     "daira_name_ar": "تسدان حدادة",
+    "ok_district": null,
     "wilaya_code": 43,
     "wilaya_name": "Mila",
     "wilaya_name_ar": "ميلة"
@@ -4625,6 +5087,7 @@
     "daire_id": 463,
     "daira_name": "Sidi Merouane",
     "daira_name_ar": "سيدي مروان",
+    "ok_district": null,
     "wilaya_code": 43,
     "wilaya_name": "Mila",
     "wilaya_name_ar": "ميلة"
@@ -4635,6 +5098,7 @@
     "daire_id": 464,
     "daira_name": "Grarem Gouga",
     "daira_name_ar": "القرارم قوقة",
+    "ok_district": null,
     "wilaya_code": 43,
     "wilaya_name": "Mila",
     "wilaya_name_ar": "ميلة"
@@ -4645,6 +5109,7 @@
     "daire_id": 465,
     "daira_name": "Rouached",
     "daira_name_ar": "الرواشد",
+    "ok_district": null,
     "wilaya_code": 43,
     "wilaya_name": "Mila",
     "wilaya_name_ar": "ميلة"
@@ -4655,6 +5120,7 @@
     "daire_id": 466,
     "daira_name": "Bouhatem",
     "daira_name_ar": "بوحاتم",
+    "ok_district": null,
     "wilaya_code": 43,
     "wilaya_name": "Mila",
     "wilaya_name_ar": "ميلة"
@@ -4665,6 +5131,7 @@
     "daire_id": 467,
     "daira_name": "Oued Endja",
     "daira_name_ar": "وادي النجاء",
+    "ok_district": null,
     "wilaya_code": 43,
     "wilaya_name": "Mila",
     "wilaya_name_ar": "ميلة"
@@ -4675,6 +5142,7 @@
     "daire_id": 468,
     "daira_name": "Tadjenanet",
     "daira_name_ar": "تاجنانت",
+    "ok_district": null,
     "wilaya_code": 43,
     "wilaya_name": "Mila",
     "wilaya_name_ar": "ميلة"
@@ -4685,6 +5153,7 @@
     "daire_id": 469,
     "daira_name": "Chelghoum Laid",
     "daira_name_ar": "شلغوم العيد",
+    "ok_district": null,
     "wilaya_code": 43,
     "wilaya_name": "Mila",
     "wilaya_name_ar": "ميلة"
@@ -4695,6 +5164,7 @@
     "daire_id": 470,
     "daira_name": "Mila",
     "daira_name_ar": "ميلة",
+    "ok_district": null,
     "wilaya_code": 43,
     "wilaya_name": "Mila",
     "wilaya_name_ar": "ميلة"
@@ -4705,6 +5175,7 @@
     "daire_id": 471,
     "daira_name": "Ferdjioua",
     "daira_name_ar": "فرجيوة",
+    "ok_district": null,
     "wilaya_code": 43,
     "wilaya_name": "Mila",
     "wilaya_name_ar": "ميلة"
@@ -4715,6 +5186,7 @@
     "daire_id": 472,
     "daira_name": "Khemis",
     "daira_name_ar": "خميس",
+    "ok_district": null,
     "wilaya_code": 44,
     "wilaya_name": "Aïn Defla",
     "wilaya_name_ar": "عين الدفلة"
@@ -4725,6 +5197,7 @@
     "daire_id": 473,
     "daira_name": "Hammam Righa",
     "daira_name_ar": "حمام ريغة",
+    "ok_district": null,
     "wilaya_code": 44,
     "wilaya_name": "Aïn Defla",
     "wilaya_name_ar": "عين الدفلة"
@@ -4735,6 +5208,7 @@
     "daire_id": 474,
     "daira_name": "Djelida",
     "daira_name_ar": "جليدة",
+    "ok_district": null,
     "wilaya_code": 44,
     "wilaya_name": "Aïn Defla",
     "wilaya_name_ar": "عين الدفلة"
@@ -4745,6 +5219,7 @@
     "daire_id": 475,
     "daira_name": "Boumedfaa",
     "daira_name_ar": "بومدفع",
+    "ok_district": null,
     "wilaya_code": 44,
     "wilaya_name": "Aïn Defla",
     "wilaya_name_ar": "عين الدفلة"
@@ -4755,6 +5230,7 @@
     "daire_id": 476,
     "daira_name": "El Amra",
     "daira_name_ar": "العامرة",
+    "ok_district": null,
     "wilaya_code": 44,
     "wilaya_name": "Aïn Defla",
     "wilaya_name_ar": "عين الدفلة"
@@ -4765,6 +5241,7 @@
     "daire_id": 477,
     "daira_name": "El Attaf",
     "daira_name_ar": "العطاف",
+    "ok_district": null,
     "wilaya_code": 44,
     "wilaya_name": "Aïn Defla",
     "wilaya_name_ar": "عين الدفلة"
@@ -4775,6 +5252,7 @@
     "daire_id": 478,
     "daira_name": "El Abadia",
     "daira_name_ar": "العبادية",
+    "ok_district": null,
     "wilaya_code": 44,
     "wilaya_name": "Aïn Defla",
     "wilaya_name_ar": "عين الدفلة"
@@ -4785,6 +5263,7 @@
     "daire_id": 479,
     "daira_name": "Djendel",
     "daira_name_ar": "جندل",
+    "ok_district": null,
     "wilaya_code": 44,
     "wilaya_name": "Aïn Defla",
     "wilaya_name_ar": "عين الدفلة"
@@ -4795,6 +5274,7 @@
     "daire_id": 480,
     "daira_name": "Miliana",
     "daira_name_ar": "مليانة",
+    "ok_district": null,
     "wilaya_code": 44,
     "wilaya_name": "Aïn Defla",
     "wilaya_name_ar": "عين الدفلة"
@@ -4805,6 +5285,7 @@
     "daire_id": 481,
     "daira_name": "Ain Lechiakh",
     "daira_name_ar": "عين الاشياخ",
+    "ok_district": null,
     "wilaya_code": 44,
     "wilaya_name": "Aïn Defla",
     "wilaya_name_ar": "عين الدفلة"
@@ -4815,6 +5296,7 @@
     "daire_id": 482,
     "daira_name": "Rouina",
     "daira_name_ar": "الروينة",
+    "ok_district": null,
     "wilaya_code": 44,
     "wilaya_name": "Aïn Defla",
     "wilaya_name_ar": "عين الدفلة"
@@ -4825,6 +5307,7 @@
     "daire_id": 483,
     "daira_name": "Bordj El Emir Khaled",
     "daira_name_ar": "برج الأمير خالد",
+    "ok_district": null,
     "wilaya_code": 44,
     "wilaya_name": "Aïn Defla",
     "wilaya_name_ar": "عين الدفلة"
@@ -4835,6 +5318,7 @@
     "daire_id": 484,
     "daira_name": "Bathia",
     "daira_name_ar": "بطحية",
+    "ok_district": null,
     "wilaya_code": 44,
     "wilaya_name": "Aïn Defla",
     "wilaya_name_ar": "عين الدفلة"
@@ -4845,6 +5329,7 @@
     "daire_id": 485,
     "daira_name": "Ain Defla",
     "daira_name_ar": "عين الدفلى",
+    "ok_district": null,
     "wilaya_code": 44,
     "wilaya_name": "Aïn Defla",
     "wilaya_name_ar": "عين الدفلة"
@@ -4855,6 +5340,7 @@
     "daire_id": 486,
     "daira_name": "Ain Sefra",
     "daira_name_ar": "عين الصفراء",
+    "ok_district": null,
     "wilaya_code": 45,
     "wilaya_name": "Naâma",
     "wilaya_name_ar": "النعامة"
@@ -4865,6 +5351,7 @@
     "daire_id": 487,
     "daira_name": "Moghrar",
     "daira_name_ar": "مغرار",
+    "ok_district": null,
     "wilaya_code": 45,
     "wilaya_name": "Naâma",
     "wilaya_name_ar": "النعامة"
@@ -4875,6 +5362,7 @@
     "daire_id": 488,
     "daira_name": "Asla",
     "daira_name_ar": "عسلة",
+    "ok_district": null,
     "wilaya_code": 45,
     "wilaya_name": "Naâma",
     "wilaya_name_ar": "النعامة"
@@ -4885,6 +5373,7 @@
     "daire_id": 489,
     "daira_name": "Mekmen Ben Amar",
     "daira_name_ar": "مكمن بن عمار",
+    "ok_district": null,
     "wilaya_code": 45,
     "wilaya_name": "Naâma",
     "wilaya_name_ar": "النعامة"
@@ -4895,6 +5384,7 @@
     "daire_id": 490,
     "daira_name": "Mecheria",
     "daira_name_ar": "المشرية",
+    "ok_district": null,
     "wilaya_code": 45,
     "wilaya_name": "Naâma",
     "wilaya_name_ar": "النعامة"
@@ -4905,6 +5395,7 @@
     "daire_id": 491,
     "daira_name": "Naama",
     "daira_name_ar": "النعامة",
+    "ok_district": null,
     "wilaya_code": 45,
     "wilaya_name": "Naâma",
     "wilaya_name_ar": "النعامة"
@@ -4915,6 +5406,7 @@
     "daire_id": 492,
     "daira_name": "Sfissifa",
     "daira_name_ar": "سفيسيفة",
+    "ok_district": null,
     "wilaya_code": 45,
     "wilaya_name": "Naâma",
     "wilaya_name_ar": "النعامة"
@@ -4925,6 +5417,7 @@
     "daire_id": 493,
     "daira_name": "Ain Larbaa",
     "daira_name_ar": "عين الأربعاء",
+    "ok_district": null,
     "wilaya_code": 46,
     "wilaya_name": "Aïn Témouchent",
     "wilaya_name_ar": "عين تيموشنت"
@@ -4935,6 +5428,7 @@
     "daire_id": 494,
     "daira_name": "El Maleh",
     "daira_name_ar": "المالح",
+    "ok_district": null,
     "wilaya_code": 46,
     "wilaya_name": "Aïn Témouchent",
     "wilaya_name_ar": "عين تيموشنت"
@@ -4945,6 +5439,7 @@
     "daire_id": 495,
     "daira_name": "Hammam Bou Hadjar",
     "daira_name_ar": "حمام بوحجر",
+    "ok_district": null,
     "wilaya_code": 46,
     "wilaya_name": "Aïn Témouchent",
     "wilaya_name_ar": "عين تيموشنت"
@@ -4955,6 +5450,7 @@
     "daire_id": 496,
     "daira_name": "El Amria",
     "daira_name_ar": "العامرية",
+    "ok_district": null,
     "wilaya_code": 46,
     "wilaya_name": "Aïn Témouchent",
     "wilaya_name_ar": "عين تيموشنت"
@@ -4965,6 +5461,7 @@
     "daire_id": 497,
     "daira_name": "Ain Kihel",
     "daira_name_ar": "عين الكيحل",
+    "ok_district": null,
     "wilaya_code": 46,
     "wilaya_name": "Aïn Témouchent",
     "wilaya_name_ar": "عين تيموشنت"
@@ -4975,6 +5472,7 @@
     "daire_id": 498,
     "daira_name": "Beni Saf",
     "daira_name_ar": "بني صاف",
+    "ok_district": null,
     "wilaya_code": 46,
     "wilaya_name": "Aïn Témouchent",
     "wilaya_name_ar": "عين تيموشنت"
@@ -4985,6 +5483,7 @@
     "daire_id": 499,
     "daira_name": "Oulhassa Gheraba",
     "daira_name_ar": "ولهاصة الغرابة",
+    "ok_district": null,
     "wilaya_code": 46,
     "wilaya_name": "Aïn Témouchent",
     "wilaya_name_ar": "عين تيموشنت"
@@ -4995,6 +5494,7 @@
     "daire_id": 500,
     "daira_name": "Ain Temouchent",
     "daira_name_ar": "عين تموشنت",
+    "ok_district": null,
     "wilaya_code": 46,
     "wilaya_name": "Aïn Témouchent",
     "wilaya_name_ar": "عين تيموشنت"
@@ -5005,6 +5505,7 @@
     "daire_id": 501,
     "daira_name": "Dhayet Ben Dhahoua",
     "daira_name_ar": "ضاية بن ضحوة",
+    "ok_district": null,
     "wilaya_code": 47,
     "wilaya_name": "Ghardaïa",
     "wilaya_name_ar": "غرداية"
@@ -5015,6 +5516,7 @@
     "daire_id": 502,
     "daira_name": "Bounoura",
     "daira_name_ar": "بونورة",
+    "ok_district": null,
     "wilaya_code": 47,
     "wilaya_name": "Ghardaïa",
     "wilaya_name_ar": "غرداية"
@@ -5025,6 +5527,7 @@
     "daire_id": 503,
     "daira_name": "Zelfana",
     "daira_name_ar": "زلفانة",
+    "ok_district": null,
     "wilaya_code": 47,
     "wilaya_name": "Ghardaïa",
     "wilaya_name_ar": "غرداية"
@@ -5035,6 +5538,7 @@
     "daire_id": 504,
     "daira_name": "El Guerrara",
     "daira_name_ar": "القرارة",
+    "ok_district": null,
     "wilaya_code": 47,
     "wilaya_name": "Ghardaïa",
     "wilaya_name_ar": "غرداية"
@@ -5045,6 +5549,7 @@
     "daire_id": 505,
     "daira_name": "Metlili",
     "daira_name_ar": "متليلي",
+    "ok_district": null,
     "wilaya_code": 47,
     "wilaya_name": "Ghardaïa",
     "wilaya_name_ar": "غرداية"
@@ -5055,6 +5560,7 @@
     "daire_id": 506,
     "daira_name": "Berriane",
     "daira_name_ar": "بريان",
+    "ok_district": null,
     "wilaya_code": 47,
     "wilaya_name": "Ghardaïa",
     "wilaya_name_ar": "غرداية"
@@ -5065,6 +5571,7 @@
     "daire_id": 507,
     "daira_name": "Ghardaia",
     "daira_name_ar": "غرداية",
+    "ok_district": null,
     "wilaya_code": 47,
     "wilaya_name": "Ghardaïa",
     "wilaya_name_ar": "غرداية"
@@ -5075,6 +5582,7 @@
     "daire_id": 508,
     "daira_name": "Mazouna",
     "daira_name_ar": "مازونة",
+    "ok_district": null,
     "wilaya_code": 48,
     "wilaya_name": "Relizane",
     "wilaya_name_ar": "غليزان"
@@ -5085,6 +5593,7 @@
     "daire_id": 509,
     "daira_name": "Ammi Moussa",
     "daira_name_ar": "عمي موسى",
+    "ok_district": null,
     "wilaya_code": 48,
     "wilaya_name": "Relizane",
     "wilaya_name_ar": "غليزان"
@@ -5095,6 +5604,7 @@
     "daire_id": 510,
     "daira_name": "Zemmoura",
     "daira_name_ar": "زمورة",
+    "ok_district": null,
     "wilaya_code": 48,
     "wilaya_name": "Relizane",
     "wilaya_name_ar": "غليزان"
@@ -5105,6 +5615,7 @@
     "daire_id": 511,
     "daira_name": "Djidiouia",
     "daira_name_ar": "جديوية",
+    "ok_district": null,
     "wilaya_code": 48,
     "wilaya_name": "Relizane",
     "wilaya_name_ar": "غليزان"
@@ -5115,6 +5626,7 @@
     "daire_id": 512,
     "daira_name": "El Matmar",
     "daira_name_ar": "المطمر",
+    "ok_district": null,
     "wilaya_code": 48,
     "wilaya_name": "Relizane",
     "wilaya_name_ar": "غليزان"
@@ -5125,6 +5637,7 @@
     "daire_id": 513,
     "daira_name": "Ain Tarek",
     "daira_name_ar": "عين طارق",
+    "ok_district": null,
     "wilaya_code": 48,
     "wilaya_name": "Relizane",
     "wilaya_name_ar": "غليزان"
@@ -5135,6 +5648,7 @@
     "daire_id": 514,
     "daira_name": "Yellel",
     "daira_name_ar": "يلل",
+    "ok_district": null,
     "wilaya_code": 48,
     "wilaya_name": "Relizane",
     "wilaya_name_ar": "غليزان"
@@ -5145,6 +5659,7 @@
     "daire_id": 515,
     "daira_name": "Ramka",
     "daira_name_ar": "الرمكة",
+    "ok_district": null,
     "wilaya_code": 48,
     "wilaya_name": "Relizane",
     "wilaya_name_ar": "غليزان"
@@ -5155,6 +5670,7 @@
     "daire_id": 516,
     "daira_name": "Mendes",
     "daira_name_ar": "منداس",
+    "ok_district": null,
     "wilaya_code": 48,
     "wilaya_name": "Relizane",
     "wilaya_name_ar": "غليزان"
@@ -5165,6 +5681,7 @@
     "daire_id": 517,
     "daira_name": "Oued Rhiou",
     "daira_name_ar": "وادي رهيو",
+    "ok_district": null,
     "wilaya_code": 48,
     "wilaya_name": "Relizane",
     "wilaya_name_ar": "غليزان"
@@ -5175,6 +5692,7 @@
     "daire_id": 518,
     "daira_name": "Relizane",
     "daira_name_ar": "غليزان",
+    "ok_district": null,
     "wilaya_code": 48,
     "wilaya_name": "Relizane",
     "wilaya_name_ar": "غليزان"
@@ -5185,6 +5703,7 @@
     "daire_id": 519,
     "daira_name": "Sidi M'hamed Ben Ali",
     "daira_name_ar": "سيدي أمحمد بن علي",
+    "ok_district": null,
     "wilaya_code": 48,
     "wilaya_name": "Relizane",
     "wilaya_name_ar": "غليزان"
@@ -5195,6 +5714,7 @@
     "daire_id": 520,
     "daira_name": "El H'madna",
     "daira_name_ar": "الحمادنة",
+    "ok_district": null,
     "wilaya_code": 48,
     "wilaya_name": "Relizane",
     "wilaya_name_ar": "غليزان"
@@ -5205,6 +5725,7 @@
     "daire_id": 521,
     "daira_name": "Tinerkouk",
     "daira_name_ar": "تنركوك",
+    "ok_district": null,
     "wilaya_code": 49,
     "wilaya_name": "Timimoun",
     "wilaya_name_ar": "تيميمون"
@@ -5215,6 +5736,7 @@
     "daire_id": 522,
     "daira_name": "Timimoun",
     "daira_name_ar": "تيميمون",
+    "ok_district": null,
     "wilaya_code": 49,
     "wilaya_name": "Timimoun",
     "wilaya_name_ar": "تيميمون"
@@ -5225,6 +5747,7 @@
     "daire_id": 523,
     "daira_name": "Aougrout",
     "daira_name_ar": "أوقروت",
+    "ok_district": null,
     "wilaya_code": 49,
     "wilaya_name": "Timimoun",
     "wilaya_name_ar": "تيميمون"
@@ -5235,6 +5758,7 @@
     "daire_id": 524,
     "daira_name": "Charouine",
     "daira_name_ar": "شروين",
+    "ok_district": null,
     "wilaya_code": 49,
     "wilaya_name": "Timimoun",
     "wilaya_name_ar": "تيميمون"
@@ -5245,6 +5769,7 @@
     "daire_id": 525,
     "daira_name": "Bordj Badji Mokhtar",
     "daira_name_ar": "برج باجي مختار",
+    "ok_district": null,
     "wilaya_code": 50,
     "wilaya_name": "Bordj Badji Mokhtar",
     "wilaya_name_ar": "برج باجي مختار"
@@ -5255,6 +5780,7 @@
     "daire_id": 526,
     "daira_name": "Sidi Khaled",
     "daira_name_ar": "سيدي  خالد",
+    "ok_district": null,
     "wilaya_code": 51,
     "wilaya_name": "Ouled Djellal",
     "wilaya_name_ar": "أولاد جلال"
@@ -5265,6 +5791,7 @@
     "daire_id": 527,
     "daira_name": "Ouled Djellal",
     "daira_name_ar": "أولاد جلال",
+    "ok_district": null,
     "wilaya_code": 51,
     "wilaya_name": "Ouled Djellal",
     "wilaya_name_ar": "أولاد جلال"
@@ -5275,6 +5802,7 @@
     "daire_id": 528,
     "daira_name": "Beni Abbes",
     "daira_name_ar": "بني عباس",
+    "ok_district": null,
     "wilaya_code": 52,
     "wilaya_name": "Béni Abbès",
     "wilaya_name_ar": "بني عباس"
@@ -5285,6 +5813,7 @@
     "daire_id": 529,
     "daira_name": "Igli",
     "daira_name_ar": "إقلي",
+    "ok_district": null,
     "wilaya_code": 52,
     "wilaya_name": "Béni Abbès",
     "wilaya_name_ar": "بني عباس"
@@ -5295,6 +5824,7 @@
     "daire_id": 530,
     "daira_name": "El Ouata",
     "daira_name_ar": "الواتة",
+    "ok_district": null,
     "wilaya_code": 52,
     "wilaya_name": "Béni Abbès",
     "wilaya_name_ar": "بني عباس"
@@ -5305,6 +5835,7 @@
     "daire_id": 531,
     "daira_name": "Ouled Khodeir",
     "daira_name_ar": "أولاد خضير",
+    "ok_district": "Ouled Khoudir",
     "wilaya_code": 52,
     "wilaya_name": "Béni Abbès",
     "wilaya_name_ar": "بني عباس"
@@ -5315,6 +5846,7 @@
     "daire_id": 532,
     "daira_name": "Kerzaz",
     "daira_name_ar": "كرزاز",
+    "ok_district": null,
     "wilaya_code": 52,
     "wilaya_name": "Béni Abbès",
     "wilaya_name_ar": "بني عباس"
@@ -5325,6 +5857,7 @@
     "daire_id": 533,
     "daira_name": "In Ghar",
     "daira_name_ar": "إينغر",
+    "ok_district": null,
     "wilaya_code": 53,
     "wilaya_name": "In Salah",
     "wilaya_name_ar": "عين صالح"
@@ -5335,6 +5868,7 @@
     "daire_id": 534,
     "daira_name": "In Salah",
     "daira_name_ar": "عين صالح",
+    "ok_district": null,
     "wilaya_code": 53,
     "wilaya_name": "In Salah",
     "wilaya_name_ar": "عين صالح"
@@ -5345,6 +5879,7 @@
     "daire_id": 535,
     "daira_name": "Tin Zouatine",
     "daira_name_ar": "تين زواتين",
+    "ok_district": "Tinzaouatine",
     "wilaya_code": 54,
     "wilaya_name": "In Guezzam",
     "wilaya_name_ar": "عين قزام"
@@ -5355,6 +5890,7 @@
     "daire_id": 536,
     "daira_name": "In Guezzam",
     "daira_name_ar": "عين قزام",
+    "ok_district": null,
     "wilaya_code": 54,
     "wilaya_name": "In Guezzam",
     "wilaya_name_ar": "عين قزام"
@@ -5365,6 +5901,7 @@
     "daire_id": 537,
     "daira_name": "Temacine",
     "daira_name_ar": "تماسين",
+    "ok_district": "Tamacine",
     "wilaya_code": 55,
     "wilaya_name": "Touggourt",
     "wilaya_name_ar": "تقرت"
@@ -5375,6 +5912,7 @@
     "daire_id": 538,
     "daira_name": "Megarine",
     "daira_name_ar": "المقارين",
+    "ok_district": null,
     "wilaya_code": 55,
     "wilaya_name": "Touggourt",
     "wilaya_name_ar": "تقرت"
@@ -5385,6 +5923,7 @@
     "daire_id": 539,
     "daira_name": "Touggourt",
     "daira_name_ar": "تقرت",
+    "ok_district": null,
     "wilaya_code": 55,
     "wilaya_name": "Touggourt",
     "wilaya_name_ar": "تقرت"
@@ -5395,6 +5934,7 @@
     "daire_id": 540,
     "daira_name": "Taibet",
     "daira_name_ar": "الطيبات",
+    "ok_district": null,
     "wilaya_code": 55,
     "wilaya_name": "Touggourt",
     "wilaya_name_ar": "تقرت"
@@ -5405,6 +5945,7 @@
     "daire_id": 541,
     "daira_name": "El-Hadjira",
     "daira_name_ar": "الحجيرة",
+    "ok_district": "El Hadjira",
     "wilaya_code": 55,
     "wilaya_name": "Touggourt",
     "wilaya_name_ar": "تقرت"
@@ -5415,6 +5956,7 @@
     "daire_id": 542,
     "daira_name": "Djanet",
     "daira_name_ar": "جانت",
+    "ok_district": null,
     "wilaya_code": 56,
     "wilaya_name": "Djanet",
     "wilaya_name_ar": "جانت"
@@ -5425,6 +5967,7 @@
     "daire_id": 543,
     "daira_name": "El Meghaier",
     "daira_name_ar": "المغير",
+    "ok_district": "El M'Ghair",
     "wilaya_code": 57,
     "wilaya_name": "El Meghaier",
     "wilaya_name_ar": "المغير"
@@ -5435,6 +5978,7 @@
     "daire_id": 544,
     "daira_name": "Djamaa",
     "daira_name_ar": "جامعة",
+    "ok_district": null,
     "wilaya_code": 57,
     "wilaya_name": "El Meghaier",
     "wilaya_name_ar": "المغير"
@@ -5445,6 +5989,7 @@
     "daire_id": 545,
     "daira_name": "El Menia",
     "daira_name_ar": "المنيعة",
+    "ok_district": "El Milia",
     "wilaya_code": 58,
     "wilaya_name": "El Menia",
     "wilaya_name_ar": "المنيعة"
